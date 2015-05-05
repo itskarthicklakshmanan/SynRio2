@@ -13,12 +13,6 @@ runUrl("https://github.com/karthicklaksman/synrio/archive/master.tar.gz") runUrl
 
 Or you can clone the git repository, then use runApp():
 
-# Dependency
+# Library dependencies
 
-library(graph)
-library(Rgraphviz)
-library(shinyBS)
-library(circlize)
-library(Biostrings)
-library(shinyIncubator)
-library(seqLogo)
+shiny, graph, Rgraphviz, shinyBS, circlize, Biostrings, shinyIncubator, seqLogo
