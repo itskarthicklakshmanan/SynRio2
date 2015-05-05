@@ -1,0 +1,19 @@
+color	cat
+#a52a2a	Amino acid biosynthesis
+#ff00ff	Biosynthesis of cofactors, prosthetic groups, and carriers
+#fa8072	Cell envelope
+#ffff00	Cellular processes
+#006400	Central intermediary metabolism
+#ff0000	Energy metabolism
+#008b8b	Fatty acid, phospholipid and sterol metabolism
+#6b8e23	Photosynthesis and respiration
+#9932cc	Purines, pyrimidines, nucleosides, and nucleotides
+#ffd700	Regulatory functions
+#0000ff	DNA replication, recombination, and repair
+#8470ff	Transcription
+#00bfff	Translation
+#00ff00	Transport and binding proteins
+#000000	Other categories
+#778899	Similar to hypothetical genes
+#ffffff	Function not known
+#ff6347	RNA 

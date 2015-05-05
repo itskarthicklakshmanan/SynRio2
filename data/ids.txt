@@ -1,0 +1,207 @@
+"id" "org" "type" "gi"
+"1" "NC_000911" "Synechocystis sp. PCC 6803" "chr" 16329170
+"3180" "NC_003241" "Nostoc sp. PCC 7120" "pCC7120zeta" 17158061
+"3185" "NC_003240" "Nostoc sp. PCC 7120" "pCC7120beta" 17158637
+"3371" "NC_003267" "Nostoc sp. PCC 7120" "pCC7120gamma" 17227374
+"3461" "NC_003270" "Nostoc sp. PCC 7120" "pCC7120epsilon" 17227465
+"3492" "NC_003272" "Nostoc sp. PCC 7120" "chr" 17227497
+"8857" "NC_003273" "Nostoc sp. PCC 7120" "pCC7120delta" 17232874
+"8923" "NC_003276" "Nostoc sp. PCC 7120" "pCC7120alpha" 17233017
+"9309" "NC_004113" "Thermosynechococcus elongatus BP-1" "chr" 22297544
+"11785" "NC_005042" "Prochlorococcus marinus subsp. marinus str. CCMP1375" "chr" 33239452
+"13668" "NC_005072" "Prochlorococcus marinus subsp. pastoris str. CCMP1986" "chr" 33860560
+"15385" "NC_005071" "Prochlorococcus marinus str. MIT 9313" "chr" 33862273
+"17654" "NC_005070" "Synechococcus sp. WH 8109" "chr" 33864539
+"20173" "NC_005125" "Gloeobacter violaceus PCC 7421" "chr" 37519569
+"24603" "NC_005229" "Synechocystis sp. PCC 6803" "PsysM" 38505535
+"24735" "NC_005230" "Synechocystis sp. PCC 6803" "pSYSA" 38505668
+"24840" "NC_005231" "Synechocystis sp. PCC 6803" "PsysG" 38505775
+"24889" "NC_005232" "Synechocystis sp. PCC 6803" "PsysX" 38505825
+"24999" "NC_006576" "Synechococcus elongatus PCC 6301" "chr" 56750010
+"27522" "NC_007410" "Anabaena variabilis ATCC 29413" "plasmid A" 75812284
+"27866" "NC_007411" "Anabaena variabilis ATCC 29413" "plasmid B" 75812629
+"27897" "NC_007412" "Anabaena variabilis ATCC 29413" "plasmid C" 75812661
+"28140" "NC_007413" "Anabaena variabilis ATCC 29413" "chr" 75906225
+"33183" "NC_007513" "Synechococcus sp. CC9902" "chr" 78183584
+"35489" "NC_007516" "Synechococcus sp. CC9605" "chr" 78211558
+"38134" "NC_007577" "Prochlorococcus marinus str. MIT 9312" "chr" 78778385
+"39944" "NC_007595" "Synechococcus elongatus PCC 7942" "plasmid 1" 81230333
+"39994" "NC_007604" "Synechococcus elongatus PCC 7942" "chr" 81298811
+"42606" "NC_007775" "Synechococcus sp. JA-3-3Ab" "chr" 86604733
+"45366" "NC_007776" "Synechococcus sp. JA-2-3B'a(2-13)" "chr" 86607503
+"48228" "NC_008312" "Trichodesmium erythraeum IMS101" "chr" 113473942
+"52679" "NC_008319" "Synechococcus sp. CC9311" "chr" 113952711
+"55571" "NC_008817" "Prochlorococcus marinus str. MIT 9515" "chr" 123965234
+"57476" "NC_008816" "Prochlorococcus marinus str. AS9601" "chr" 123967536
+"59396" "NC_008820" "Prochlorococcus marinus str. MIT 9303" "chr" 124021714
+"62393" "NC_008819" "Prochlorococcus marinus str. NATL1A" "chr" 124024712
+"64586" "NC_009091" "Prochlorococcus marinus str. MIT 9301" "chr" 126695337
+"66492" "NC_009481" "Synechococcus sp. WH 7803" "chr" 148238336
+"69025" "NC_009482" "Synechococcus sp. RCC307" "chr" 148241099
+"71559" "NC_009840" "Prochlorococcus marinus str. MIT 9215" "chr" 157412338
+"73540" "NC_009925" "Acaryochloris marina MBIC11017" "chr" 158333233
+"79794" "NC_009926" "Acaryochloris marina MBIC11017" "pREB1" 158339488
+"80176" "NC_009927" "Acaryochloris marina MBIC11017" "pREB2" 158339871
+"80584" "NC_009928" "Acaryochloris marina MBIC11017" "pREB3" 158340280
+"80946" "NC_009929" "Acaryochloris marina MBIC11017" "pREB4" 158340643
+"81219" "NC_009930" "Acaryochloris marina MBIC11017" "pREB5" 158340917
+"81441" "NC_009931" "Acaryochloris marina MBIC11017" "pREB6" 158341140
+"81629" "NC_009932" "Acaryochloris marina MBIC11017" "pREB7" 158341329
+"81802" "NC_009933" "Acaryochloris marina MBIC11017" "pREB8" 158341503
+"81919" "NC_009934" "Acaryochloris marina MBIC11017" "pREB9" 158341621
+"81923" "NC_009976" "Prochlorococcus marinus str. MIT 9211" "chr" 159902540
+"83777" "NC_007335" "Prochlorococcus marinus str. NATL2A" "chr" 162958048
+"85939" "NC_010296" "Microcystis aeruginosa NIES-843" "chr" 166362741
+"92251" "NC_010474" "Synechococcus sp. PCC 7002" "pAQ7" 170076470
+"92416" "NC_010475" "Synechococcus sp. PCC 7002" "chr" 170076636
+"95240" "NC_010476" "Synechococcus sp. PCC 7002" "pAQ1" 170079460
+"95243" "NC_010477" "Synechococcus sp. PCC 7002" "pAQ3" 170079464
+"95260" "NC_010478" "Synechococcus sp. PCC 7002" "pAQ4" 170079482
+"95290" "NC_010479" "Synechococcus sp. PCC 7002" "pAQ5" 170079513
+"95329" "NC_010480" "Synechococcus sp. PCC 7002" "pAQ6" 170079553
+"95438" "NC_010539" "Cyanothece sp. ATCC 51142" "plasmid A" 172034820
+"95476" "NC_010541" "Cyanothece sp. ATCC 51142" "plasmid B" 172034859
+"95501" "NC_010542" "Cyanothece sp. ATCC 51142" "plasmid C" 172034885
+"95520" "NC_010543" "Cyanothece sp. ATCC 51142" "plasmid D" 172034905
+"95531" "NC_010546" "Cyanothece sp. ATCC 51142" "cir" 172034917
+"100293" "NC_010547" "Cyanothece sp. ATCC 51142" "linear" 172054853
+"100742" "NC_010628" "Nostoc punctiforme PCC 73102" "chr" 186680550
+"106828" "NC_010629" "Nostoc punctiforme PCC 73102" "pNPUN05" 186686638
+"106853" "NC_010630" "Nostoc punctiforme PCC 73102" "pNPUN03" 186686664
+"106926" "NC_010631" "Nostoc punctiforme PCC 73102" "pNPUN01" 186686738
+"107186" "NC_010633" "Nostoc punctiforme PCC 73102" "pNPUN04" 186686999
+"107234" "NC_010632" "Nostoc punctiforme PCC 73102" "pNPUN02" 186687048
+"107431" "NC_011721" "Cyanothece sp. PCC 8801" "pP880101" 218203844
+"107483" "NC_011723" "Cyanothece sp. PCC 8801" "pP880102" 218203933
+"107527" "NC_011726" "Cyanothece sp. PCC 8801" "chr" 218244892
+"111787" "NC_011727" "Cyanothece sp. PCC 8801" "pP880103" 218249153
+"111798" "NC_011729" "Cyanothece sp. PCC 7424" "chr" 218437013
+"117025" "NC_011730" "Cyanothece sp. PCC 7424" "pP742403" 218442241
+"117051" "NC_011732" "Cyanothece sp. PCC 7424" "Pp742404" 218442305
+"117070" "NC_011733" "Cyanothece sp. PCC 7424" "pP742405" 218442325
+"117086" "NC_011734" "Cyanothece sp. PCC 7424" "pP742406" 218442342
+"117097" "NC_011737" "Cyanothece sp. PCC 7424" "Pp742402" 218442435
+"117272" "NC_011738" "Cyanothece sp. PCC 7424" "pP742401" 218442611
+"117508" "NC_011880" "Cyanothece sp. PCC 7425" "pP742501" 219883096
+"117668" "NC_011882" "Cyanothece sp. PCC 7425" "pP742503" 219883409
+"117697" "NC_011884" "Cyanothece sp. PCC 7425" "chr" 220905643
+"122663" "NC_011885" "Cyanothece sp. PCC 7425" "pP742502" 220910610
+"122835" "NC_013160" "Cyanothece sp. PCC 8802" "pP880201" 256818682
+"122893" "NC_013167" "Cyanothece sp. PCC 8802" "pP880203" 256823861
+"122922" "NC_013168" "Cyanothece sp. PCC 8802" "pP880204" 256823891
+"122935" "NC_013161" "Cyanothece sp. PCC 8802" "chr" 257057919
+"127255" "NC_013163" "Cyanothece sp. PCC 8802" "pP880202" 257062240
+"127279" "NC_014000" "Anabaena variabilis ATCC 29413" "ins element" 292905252
+"127328" "NC_014248" "'Nostoc azollae' 0708" "chr" 298489614
+"130917" "NC_014249" "'Nostoc azollae' 0708" "pAzo01" 298501383
+"130968" "NC_014250" "'Nostoc azollae' 0708" "pAzo02" 298501435
+"130979" "NC_014504" "Cyanothece sp. PCC 7822" "Cy782205" 307149645
+"131012" "NC_014503" "Cyanothece sp. PCC 7822" "Cy782204" 307149679
+"131040" "NC_014502" "Cyanothece sp. PCC 7822" "Cy782203" 307149708
+"131276" "NC_014501" "Cyanothece sp. PCC 7822" "chr" 307149945
+"136698" "NC_014535" "Cyanothece sp. PCC 7822" "Cy782206" 307591243
+"136711" "NC_014534" "Cyanothece sp. PCC 7822" "Cy782202" 307591289
+"137075" "NC_014533" "Cyanothece sp. PCC 7822" "Cy782201" 307591951
+"137621" "NC_017038" "Synechocystis sp. PCC 6803 substr. PCC-P" "chr" 383320909
+"140790" "NC_017039" "Synechocystis sp. PCC 6803 substr. PCC-N" "chr" 383324079
+"143958" "NC_017052" "Synechocystis sp. PCC 6803 substr. GT-I" "chr" 383489963
+"147126" "NC_017277" "Synechocystis sp. PCC 6803" "chr" 384435229
+"150296" "NC_019427" "Anabaena sp. 90" "cir" 414075311
+"153944" "NC_019428" "Anabaena sp. 90" "pANA01" 414078960
+"154032" "NC_019429" "Anabaena sp. 90" "pANA02" 414079049
+"154079" "NC_019439" "Anabaena sp. 90" "chr" 414079097
+"154785" "NC_019440" "Anabaena sp. 90" "pANA03" 414079804
+"154807" "NC_019675" "Cyanobium gracile PCC 6307" "chr" 427701340
+"158087" "NC_019676" "Nostoc sp. PCC 7107" "chr" 427705465
+"163324" "NC_019680" "Synechococcus sp. PCC 6312" "chr" 427711179
+"166837" "NC_019681" "Synechococcus sp. PCC 6312" "pSYN6312.01" 427714745
+"166869" "NC_019682" "Calothrix sp. PCC 7507" "chr" 427715354
+"172819" "NC_019683" "Leptolyngbya sp. PCC 7376" "chr" 427722021
+"177047" "NC_019685" "Nostoc sp. PCC 7524" "pNOS7524.02" 427726360
+"177057" "NC_019677" "Nostoc sp. PCC 7524" "pNOS7524.01" 427726395
+"177141" "NC_019684" "Nostoc sp. PCC 7524" "chr" 427727289
+"182496" "NC_019678" "Rivularia sp. PCC 7116" "chr" 427733619
+"189105" "NC_019679" "Rivularia sp. PCC 7116" "pRIV7116.01" 427740400
+"189136" "NC_019686" "Rivularia sp. PCC 7116" "pRIV7116.02" 427740454
+"189140" "NC_019689" "Pleurocapsa sp. PCC 7327" "chr" 428200461
+"193408" "NC_019699" "Chroococcidiopsis thermalis PCC 7203" "pCHRO.01" 428204730
+"193750" "NC_019695" "Chroococcidiopsis thermalis PCC 7203" "chr" 428205073
+"199158" "NC_019696" "Chroococcidiopsis thermalis PCC 7203" "pCHRO.02" 428210482
+"199160" "NC_019700" "Oscillatoria acuminata PCC 6304" "pOSCIL6304.01" 428210485
+"199211" "NC_019693" "Oscillatoria acuminata PCC 6304" "chr" 428210537
+"204915" "NC_019694" "Oscillatoria acuminata PCC 6304" "pOSCIL6304.02" 428216242
+"204956" "NC_019701" "Pseudanabaena sp. PCC 7367" "chr" 428216284
+"208517" "NC_019690" "Pseudanabaena sp. PCC 7367" "pPSE7367.01" 428219846
+"208810" "NC_019702" "Synechococcus sp. PCC 7502" "chr" 428220140
+"212058" "NC_019691" "Synechococcus sp. PCC 7502" "pSYN7502.01" 428223389
+"212116" "NC_019692" "Synechococcus sp. PCC 7502" "pSYN7502.02" 428223448
+"212128" "NC_019703" "Geitlerinema sp. PCC 7407" "chr" 428223461
+"215943" "NC_019751" "Calothrix sp. PCC 6303" "chr" 428296779
+"221336" "NC_019727" "Calothrix sp. PCC 6303" "pCAL6303.01" 428303471
+"221390" "NC_019752" "Calothrix sp. PCC 6303" "pCAL6303.03" 428303526
+"221430" "NC_019728" "Calothrix sp. PCC 6303" "pCAL6303.02" 428303567
+"221478" "NC_019735" "Crinalium epipsammum PCC 9333" "pCRI9333.04" 428303616
+"221520" "NC_019737" "Crinalium epipsammum PCC 9333" "pCRI9333.07" 428303659
+"221553" "NC_019753" "Crinalium epipsammum PCC 9333" "chr" 428303693
+"226027" "NC_019754" "Crinalium epipsammum PCC 9333" "pCRI9333.03" 428308168
+"226076" "NC_019755" "Crinalium epipsammum PCC 9333" "pCRI9333.06" 428308218
+"226098" "NC_019756" "Crinalium epipsammum PCC 9333" "pCRI9333.08" 428308241
+"226104" "NC_019733" "Crinalium epipsammum PCC 9333" "pCRI9333.01" 428308248
+"226147" "NC_019734" "Crinalium epipsammum PCC 9333" "pCRI9333.02" 428308292
+"226197" "NC_019736" "Crinalium epipsammum PCC 9333" "pCRI9333.05" 428308343
+"226230" "NC_019738" "Microcoleus sp. PCC 7113" "chr" 428308377
+"232257" "NC_019739" "Microcoleus sp. PCC 7113" "pMIC7113.01" 428314405
+"232362" "NC_019742" "Microcoleus sp. PCC 7113" "pMIC7113.06" 428314511
+"232394" "NC_019761" "Microcoleus sp. PCC 7113" "pMIC7113.04" 428314544
+"232442" "NC_019740" "Microcoleus sp. PCC 7113" "pMIC7113.03" 428314593
+"232518" "NC_019741" "Microcoleus sp. PCC 7113" "pMIC7113.05" 428314670
+"232557" "NC_019743" "Microcoleus sp. PCC 7113" "pMIC7113.08" 428314710
+"232586" "NC_019760" "Microcoleus sp. PCC 7113" "pMIC7113.02" 428314740
+"232653" "NC_019762" "Microcoleus sp. PCC 7113" "pMIC7113.07" 428314808
+"232671" "NC_019730" "Oscillatoria nigro-viridis PCC 7112" "pOSC7112.02" 428314827
+"232862" "NC_019731" "Oscillatoria nigro-viridis PCC 7112" "pOSC7112.03" 428315019
+"232969" "NC_019764" "Oscillatoria nigro-viridis PCC 7112" "pOSC7112.04" 428315127
+"233023" "NC_019729" "Oscillatoria nigro-viridis PCC 7112" "chr" 428315182
+"238804" "NC_019732" "Oscillatoria nigro-viridis PCC 7112" "pOSC7112.05" 428320964
+"238814" "NC_019763" "Oscillatoria nigro-viridis PCC 7112" "pOSC7112.01" 428320975
+"239031" "NC_019776" "Cyanobacterium aponinum PCC 10605" "chr" 428768415
+"242389" "NC_019777" "Cyanobacterium aponinum PCC 10605" "pCYAN10605.01" 428771774
+"242462" "NC_019778" "Cyanobacterium stanieri PCC 7202" "chr" 428771848
+"245299" "NC_019779" "Halothece sp. PCC 7418" "chr" 428774686
+"249007" "NC_019780" "Dactylococcopsis salina PCC 8305" "chr" 428778395
+"252344" "NC_019697" "Chamaesiphon minutus PCC 6605" "chr" 434384225
+"257842" "NC_019698" "Chamaesiphon minutus PCC 6605" "pCHA6605.02" 434389900
+"257864" "NC_019744" "Cylindrospermum stagnale PCC 7417" "pCYLST.02" 434389956
+"257980" "NC_019745" "Gloeocapsa sp. PCC 7428" "chr" 434390831
+"262665" "NC_019746" "Gloeocapsa sp. PCC 7428" "pGLO7428.01" 434395721
+"262779" "NC_019747" "Gloeocapsa sp. PCC 7428" "pGLO7428.04" 434395856
+"262797" "NC_019748" "Stanieria cyanosphaera PCC 7437" "chr" 434396591
+"267125" "NC_019749" "Stanieria cyanosphaera PCC 7437" "pSTA7437.02" 434401063
+"267220" "NC_019750" "Stanieria cyanosphaera PCC 7437" "pSTA7437.03" 434401190
+"267287" "NC_019757" "Cylindrospermum stagnale PCC 7417" "chr" 434402184
+"273098" "NC_019758" "Cylindrospermum stagnale PCC 7417" "pCYLST.03" 434408147
+"273118" "NC_019759" "Gloeocapsa sp. PCC 7428" "pGLO7428.03" 434408186
+"273142" "NC_019765" "Stanieria cyanosphaera PCC 7437" "pSTA7437.01" 434408264
+"273418" "NC_019766" "Stanieria cyanosphaera PCC 7437" "pSTA7437.05" 434408556
+"273421" "NC_020050" "Cylindrospermum stagnale PCC 7417" "pCYLST.01" 436669979
+"273703" "NC_020051" "Gloeocapsa sp. PCC 7428" "pGLO7428.02" 436735872
+"273873" "NC_020052" "Stanieria cyanosphaera PCC 7437" "pSTA7437.04" 436736068
+"273885" "NC_020053" "Chamaesiphon minutus PCC 6605" "pCHA6605.01" 436736818
+"274310" "NC_020056" "Anabaena cylindrica PCC 7122" "pANACY.05" 436843263
+"274328" "NC_019771" "Anabaena cylindrica PCC 7122" "chr" 440679730
+"279648" "NC_019772" "Anabaena cylindrica PCC 7122" "pANACY.01" 440685051
+"279798" "NC_019773" "Anabaena cylindrica PCC 7122" "pANACY.03" 440685202
+"279925" "NC_019774" "Anabaena cylindrica PCC 7122" "pANACY.04" 440685330
+"279984" "NC_019775" "Anabaena cylindrica PCC 7122" "pANACY.06" 440685390
+"280008" "NC_020157" "Anabaena cylindrica PCC 7122" "pANACY.02" 443329695
+"280148" "NC_020286" "Synechocystis sp. PCC 6803" "chr" 451813329
+"283307" "NC_020288" "Synechocystis sp. PCC 6803" "pSYSG_M" 451816489
+"283356" "NC_020289" "Synechocystis sp. PCC 6803" "pCA2.4_M" 451816539
+"283358" "NC_020296" "Synechocystis sp. PCC 6803" "pSYSM_M" 451816542
+"283488" "NC_020287" "Synechocystis sp. PCC 6803" "pSYSA_M" 451816673
+"283591" "NC_020298" "Synechocystis sp. PCC 6803" "pCB2.4_M" 451816777
+"283594" "NC_020290" "Synechocystis sp. PCC 6803" "pCC5.2_M" 451816781
+"283599" "NC_020297" "Synechocystis sp. PCC 6803" "pSYSX_M" 451816787
+"283709" "NC_016640" "Arthrospira platensis NIES-39" "chr" 479126419
+"290339" "NC_022600" "Gloeobacter kilaueensis JS1" "chr" 554634310
+"294846" "NC_023033" "Thermosynechococcus sp. NK55" "chr" 571026788

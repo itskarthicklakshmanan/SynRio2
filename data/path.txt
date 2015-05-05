@@ -1,0 +1,1662 @@
+id	pathid	specificpath	generalpath
+sll0593	syn01200	Carbon metabolism	Overview
+slr0329	syn01200	Carbon metabolism	Overview
+slr1349	syn01200	Carbon metabolism	Overview
+sll1196	syn01200	Carbon metabolism	Overview
+sll0745	syn01200	Carbon metabolism	Overview
+slr0943	syn01200	Carbon metabolism	Overview
+sll0018	syn01200	Carbon metabolism	Overview
+slr0783	syn01200	Carbon metabolism	Overview
+slr0884	syn01200	Carbon metabolism	Overview
+sll1342	syn01200	Carbon metabolism	Overview
+slr0394	syn01200	Carbon metabolism	Overview
+slr1945	syn01200	Carbon metabolism	Overview
+slr1748	syn01200	Carbon metabolism	Overview
+slr1124	syn01200	Carbon metabolism	Overview
+slr0752	syn01200	Carbon metabolism	Overview
+sll1275	syn01200	Carbon metabolism	Overview
+sll0587	syn01200	Carbon metabolism	Overview
+slr1934	syn01200	Carbon metabolism	Overview
+sll1721	syn01200	Carbon metabolism	Overview
+sll1841	syn01200	Carbon metabolism	Overview
+slr1096	syn01200	Carbon metabolism	Overview
+slr0721	syn01200	Carbon metabolism	Overview
+slr1843	syn01200	Carbon metabolism	Overview
+sll1479	syn01200	Carbon metabolism	Overview
+sll0329	syn01200	Carbon metabolism	Overview
+sll0807	syn01200	Carbon metabolism	Overview
+slr0194	syn01200	Carbon metabolism	Overview
+ssl2153	syn01200	Carbon metabolism	Overview
+sll1070	syn01200	Carbon metabolism	Overview
+slr1793	syn01200	Carbon metabolism	Overview
+sll0469	syn01200	Carbon metabolism	Overview
+sll1709	syn01200	Carbon metabolism	Overview
+sll0107	syn01200	Carbon metabolism	Overview
+sll0401	syn01200	Carbon metabolism	Overview
+slr0665	syn01200	Carbon metabolism	Overview
+slr1289	syn01200	Carbon metabolism	Overview
+sll1557	syn01200	Carbon metabolism	Overview
+sll1023	syn01200	Carbon metabolism	Overview
+slr1233	syn01200	Carbon metabolism	Overview
+sll1625	syn01200	Carbon metabolism	Overview
+sll0823	syn01200	Carbon metabolism	Overview
+slr0018	syn01200	Carbon metabolism	Overview
+sll0891	syn01200	Carbon metabolism	Overview
+sll1525	syn01200	Carbon metabolism	Overview
+slr0009	syn01200	Carbon metabolism	Overview
+slr0012	syn01200	Carbon metabolism	Overview
+slr0952	syn01200	Carbon metabolism	Overview
+slr2094	syn01200	Carbon metabolism	Overview
+sll0920	syn01200	Carbon metabolism	Overview
+sll0741	syn01200	Carbon metabolism	Overview
+slr0301	syn01200	Carbon metabolism	Overview
+slr0435	syn01200	Carbon metabolism	Overview
+sll0053	syn01200	Carbon metabolism	Overview
+sll0728	syn01200	Carbon metabolism	Overview
+sll0336	syn01200	Carbon metabolism	Overview
+slr1993	syn01200	Carbon metabolism	Overview
+sll0753	syn01200	Carbon metabolism	Overview
+sll0990	syn01200	Carbon metabolism	Overview
+sll0992	syn01200	Carbon metabolism	Overview
+sll1299	syn01200	Carbon metabolism	Overview
+slr2132	syn01200	Carbon metabolism	Overview
+sll0542	syn01200	Carbon metabolism	Overview
+slr0201	syn01200	Carbon metabolism	Overview
+sll1931	syn01200	Carbon metabolism	Overview
+sll1908	syn01200	Carbon metabolism	Overview
+slr2072	syn01200	Carbon metabolism	Overview
+slr0293	syn01200	Carbon metabolism	Overview
+sll0171	syn01200	Carbon metabolism	Overview
+sll0573	syn01200	Carbon metabolism	Overview
+slr1348	syn01200	Carbon metabolism	Overview
+sll0712	syn01200	Carbon metabolism	Overview
+slr1842	syn01200	Carbon metabolism	Overview
+sll0401	syn01210	2-Oxocarboxylic acid metabolism	Overview
+slr0665	syn01210	2-Oxocarboxylic acid metabolism	Overview
+slr1289	syn01210	2-Oxocarboxylic acid metabolism	Overview
+sll0402	syn01210	2-Oxocarboxylic acid metabolism	Overview
+slr0657	syn01210	2-Oxocarboxylic acid metabolism	Overview
+slr0549	syn01210	2-Oxocarboxylic acid metabolism	Overview
+sll1883	syn01210	2-Oxocarboxylic acid metabolism	Overview
+slr1898	syn01210	2-Oxocarboxylic acid metabolism	Overview
+sll0080	syn01210	2-Oxocarboxylic acid metabolism	Overview
+slr1022	syn01210	2-Oxocarboxylic acid metabolism	Overview
+sll1470	syn01210	2-Oxocarboxylic acid metabolism	Overview
+sll1444	syn01210	2-Oxocarboxylic acid metabolism	Overview
+slr1517	syn01210	2-Oxocarboxylic acid metabolism	Overview
+sll1981	syn01210	2-Oxocarboxylic acid metabolism	Overview
+slr2088	syn01210	2-Oxocarboxylic acid metabolism	Overview
+sll0065	syn01210	2-Oxocarboxylic acid metabolism	Overview
+sll1363	syn01210	2-Oxocarboxylic acid metabolism	Overview
+slr0452	syn01210	2-Oxocarboxylic acid metabolism	Overview
+slr0032	syn01210	2-Oxocarboxylic acid metabolism	Overview
+sll1564	syn01210	2-Oxocarboxylic acid metabolism	Overview
+slr0186	syn01210	2-Oxocarboxylic acid metabolism	Overview
+sll0728	syn01212	Fatty acid metabolism	Overview
+sll0336	syn01212	Fatty acid metabolism	Overview
+slr0435	syn01212	Fatty acid metabolism	Overview
+sll0053	syn01212	Fatty acid metabolism	Overview
+slr2023	syn01212	Fatty acid metabolism	Overview
+sll1069	syn01212	Fatty acid metabolism	Overview
+slr1332	syn01212	Fatty acid metabolism	Overview
+slr1511	syn01212	Fatty acid metabolism	Overview
+slr0886	syn01212	Fatty acid metabolism	Overview
+slr1994	syn01212	Fatty acid metabolism	Overview
+sll5079	syn01212	Fatty acid metabolism	Overview
+sll1605	syn01212	Fatty acid metabolism	Overview
+slr1051	syn01212	Fatty acid metabolism	Overview
+slr1993	syn01212	Fatty acid metabolism	Overview
+slr1609	syn01212	Fatty acid metabolism	Overview
+sll0541	syn01212	Fatty acid metabolism	Overview
+slr1350	syn01212	Fatty acid metabolism	Overview
+sll1441	syn01212	Fatty acid metabolism	Overview
+slr0783	syn01230	Biosynthesis of amino acids	Overview
+slr0884	syn01230	Biosynthesis of amino acids	Overview
+sll1342	syn01230	Biosynthesis of amino acids	Overview
+slr0394	syn01230	Biosynthesis of amino acids	Overview
+slr1945	syn01230	Biosynthesis of amino acids	Overview
+slr1748	syn01230	Biosynthesis of amino acids	Overview
+slr1124	syn01230	Biosynthesis of amino acids	Overview
+slr0752	syn01230	Biosynthesis of amino acids	Overview
+sll1275	syn01230	Biosynthesis of amino acids	Overview
+sll0587	syn01230	Biosynthesis of amino acids	Overview
+slr0943	syn01230	Biosynthesis of amino acids	Overview
+sll0018	syn01230	Biosynthesis of amino acids	Overview
+sll1196	syn01230	Biosynthesis of amino acids	Overview
+sll0745	syn01230	Biosynthesis of amino acids	Overview
+sll1070	syn01230	Biosynthesis of amino acids	Overview
+slr1793	syn01230	Biosynthesis of amino acids	Overview
+sll0807	syn01230	Biosynthesis of amino acids	Overview
+slr0194	syn01230	Biosynthesis of amino acids	Overview
+ssl2153	syn01230	Biosynthesis of amino acids	Overview
+sll0469	syn01230	Biosynthesis of amino acids	Overview
+sll1470	syn01230	Biosynthesis of amino acids	Overview
+sll1444	syn01230	Biosynthesis of amino acids	Overview
+slr1517	syn01230	Biosynthesis of amino acids	Overview
+sll1981	syn01230	Biosynthesis of amino acids	Overview
+slr2088	syn01230	Biosynthesis of amino acids	Overview
+sll0065	syn01230	Biosynthesis of amino acids	Overview
+sll1363	syn01230	Biosynthesis of amino acids	Overview
+slr0452	syn01230	Biosynthesis of amino acids	Overview
+slr0032	syn01230	Biosynthesis of amino acids	Overview
+sll1564	syn01230	Biosynthesis of amino acids	Overview
+slr0186	syn01230	Biosynthesis of amino acids	Overview
+slr2072	syn01230	Biosynthesis of amino acids	Overview
+sll1931	syn01230	Biosynthesis of amino acids	Overview
+sll1908	syn01230	Biosynthesis of amino acids	Overview
+slr1348	syn01230	Biosynthesis of amino acids	Overview
+sll0712	syn01230	Biosynthesis of amino acids	Overview
+slr1842	syn01230	Biosynthesis of amino acids	Overview
+slr0657	syn01230	Biosynthesis of amino acids	Overview
+slr0549	syn01230	Biosynthesis of amino acids	Overview
+sll0455	syn01230	Biosynthesis of amino acids	Overview
+sll1760	syn01230	Biosynthesis of amino acids	Overview
+sll1172	syn01230	Biosynthesis of amino acids	Overview
+sll1688	syn01230	Biosynthesis of amino acids	Overview
+sll0402	syn01230	Biosynthesis of amino acids	Overview
+slr0288	syn01230	Biosynthesis of amino acids	Overview
+slr1756	syn01230	Biosynthesis of amino acids	Overview
+sll1027	syn01230	Biosynthesis of amino acids	Overview
+slr0212	syn01230	Biosynthesis of amino acids	Overview
+sll0927	syn01230	Biosynthesis of amino acids	Overview
+sll0401	syn01230	Biosynthesis of amino acids	Overview
+slr0665	syn01230	Biosynthesis of amino acids	Overview
+slr1289	syn01230	Biosynthesis of amino acids	Overview
+slr0049	syn01230	Biosynthesis of amino acids	Overview
+sll1883	syn01230	Biosynthesis of amino acids	Overview
+slr1898	syn01230	Biosynthesis of amino acids	Overview
+sll0080	syn01230	Biosynthesis of amino acids	Overview
+slr1022	syn01230	Biosynthesis of amino acids	Overview
+sll0902	syn01230	Biosynthesis of amino acids	Overview
+slr0585	syn01230	Biosynthesis of amino acids	Overview
+slr1133	syn01230	Biosynthesis of amino acids	Overview
+slr2035	syn01230	Biosynthesis of amino acids	Overview
+sll0373	syn01230	Biosynthesis of amino acids	Overview
+sll0461	syn01230	Biosynthesis of amino acids	Overview
+slr0661	syn01230	Biosynthesis of amino acids	Overview
+slr0550	syn01230	Biosynthesis of amino acids	Overview
+sll1058	syn01230	Biosynthesis of amino acids	Overview
+slr1665	syn01230	Biosynthesis of amino acids	Overview
+sll0504	syn01230	Biosynthesis of amino acids	Overview
+sll0480	syn01230	Biosynthesis of amino acids	Overview
+sll0006	syn01230	Biosynthesis of amino acids	Overview
+sll0900	syn01230	Biosynthesis of amino acids	Overview
+slr1560	syn01230	Biosynthesis of amino acids	Overview
+slr0608	syn01230	Biosynthesis of amino acids	Overview
+slr0652	syn01230	Biosynthesis of amino acids	Overview
+sll1893	syn01230	Biosynthesis of amino acids	Overview
+slr0084	syn01230	Biosynthesis of amino acids	Overview
+slr0500	syn01230	Biosynthesis of amino acids	Overview
+sll1958	syn01230	Biosynthesis of amino acids	Overview
+slr0682	syn01230	Biosynthesis of amino acids	Overview
+slr1848	syn01230	Biosynthesis of amino acids	Overview
+sll0934	syn01230	Biosynthesis of amino acids	Overview
+slr2130	syn01230	Biosynthesis of amino acids	Overview
+sll1112	syn01230	Biosynthesis of amino acids	Overview
+slr1559	syn01230	Biosynthesis of amino acids	Overview
+sll1669	syn01230	Biosynthesis of amino acids	Overview
+slr0444	syn01230	Biosynthesis of amino acids	Overview
+sll1747	syn01230	Biosynthesis of amino acids	Overview
+slr0738	syn01230	Biosynthesis of amino acids	Overview
+slr0055	syn01230	Biosynthesis of amino acids	Overview
+slr1867	syn01230	Biosynthesis of amino acids	Overview
+sll0356	syn01230	Biosynthesis of amino acids	Overview
+slr0546	syn01230	Biosynthesis of amino acids	Overview
+slr0966	syn01230	Biosynthesis of amino acids	Overview
+slr0543	syn01230	Biosynthesis of amino acids	Overview
+sll0109	syn01230	Biosynthesis of amino acids	Overview
+slr2081	syn01230	Biosynthesis of amino acids	Overview
+sll1662	syn01230	Biosynthesis of amino acids	Overview
+slr0942	syn01220	Degradation of aromatic compounds	Overview
+sll0990	syn01220	Degradation of aromatic compounds	Overview
+sll0593	syn00010	Glycolysis / Gluconeogenesis	Carbohydrate metabolism
+slr0329	syn00010	Glycolysis / Gluconeogenesis	Carbohydrate metabolism
+slr1349	syn00010	Glycolysis / Gluconeogenesis	Carbohydrate metabolism
+sll1196	syn00010	Glycolysis / Gluconeogenesis	Carbohydrate metabolism
+sll0745	syn00010	Glycolysis / Gluconeogenesis	Carbohydrate metabolism
+slr0952	syn00010	Glycolysis / Gluconeogenesis	Carbohydrate metabolism
+slr2094	syn00010	Glycolysis / Gluconeogenesis	Carbohydrate metabolism
+slr0943	syn00010	Glycolysis / Gluconeogenesis	Carbohydrate metabolism
+sll0018	syn00010	Glycolysis / Gluconeogenesis	Carbohydrate metabolism
+slr0783	syn00010	Glycolysis / Gluconeogenesis	Carbohydrate metabolism
+slr0884	syn00010	Glycolysis / Gluconeogenesis	Carbohydrate metabolism
+sll1342	syn00010	Glycolysis / Gluconeogenesis	Carbohydrate metabolism
+slr0394	syn00010	Glycolysis / Gluconeogenesis	Carbohydrate metabolism
+slr1945	syn00010	Glycolysis / Gluconeogenesis	Carbohydrate metabolism
+slr1748	syn00010	Glycolysis / Gluconeogenesis	Carbohydrate metabolism
+slr1124	syn00010	Glycolysis / Gluconeogenesis	Carbohydrate metabolism
+slr0752	syn00010	Glycolysis / Gluconeogenesis	Carbohydrate metabolism
+sll1275	syn00010	Glycolysis / Gluconeogenesis	Carbohydrate metabolism
+sll0587	syn00010	Glycolysis / Gluconeogenesis	Carbohydrate metabolism
+slr1934	syn00010	Glycolysis / Gluconeogenesis	Carbohydrate metabolism
+sll1721	syn00010	Glycolysis / Gluconeogenesis	Carbohydrate metabolism
+sll1841	syn00010	Glycolysis / Gluconeogenesis	Carbohydrate metabolism
+slr1096	syn00010	Glycolysis / Gluconeogenesis	Carbohydrate metabolism
+sll0990	syn00010	Glycolysis / Gluconeogenesis	Carbohydrate metabolism
+slr0942	syn00010	Glycolysis / Gluconeogenesis	Carbohydrate metabolism
+slr0091	syn00010	Glycolysis / Gluconeogenesis	Carbohydrate metabolism
+sll0542	syn00010	Glycolysis / Gluconeogenesis	Carbohydrate metabolism
+sll0726	syn00010	Glycolysis / Gluconeogenesis	Carbohydrate metabolism
+sll0401	syn00020	Citrate cycle (TCA cycle)	Carbohydrate metabolism
+slr0665	syn00020	Citrate cycle (TCA cycle)	Carbohydrate metabolism
+slr1289	syn00020	Citrate cycle (TCA cycle)	Carbohydrate metabolism
+slr1096	syn00020	Citrate cycle (TCA cycle)	Carbohydrate metabolism
+sll1557	syn00020	Citrate cycle (TCA cycle)	Carbohydrate metabolism
+sll1023	syn00020	Citrate cycle (TCA cycle)	Carbohydrate metabolism
+slr1233	syn00020	Citrate cycle (TCA cycle)	Carbohydrate metabolism
+sll1625	syn00020	Citrate cycle (TCA cycle)	Carbohydrate metabolism
+sll0823	syn00020	Citrate cycle (TCA cycle)	Carbohydrate metabolism
+slr0018	syn00020	Citrate cycle (TCA cycle)	Carbohydrate metabolism
+sll0891	syn00020	Citrate cycle (TCA cycle)	Carbohydrate metabolism
+slr1934	syn00020	Citrate cycle (TCA cycle)	Carbohydrate metabolism
+sll1721	syn00020	Citrate cycle (TCA cycle)	Carbohydrate metabolism
+sll1841	syn00020	Citrate cycle (TCA cycle)	Carbohydrate metabolism
+slr1349	syn00030	Pentose phosphate pathway	Carbohydrate metabolism
+slr1843	syn00030	Pentose phosphate pathway	Carbohydrate metabolism
+sll1479	syn00030	Pentose phosphate pathway	Carbohydrate metabolism
+sll0329	syn00030	Pentose phosphate pathway	Carbohydrate metabolism
+sll0807	syn00030	Pentose phosphate pathway	Carbohydrate metabolism
+sll1070	syn00030	Pentose phosphate pathway	Carbohydrate metabolism
+slr1793	syn00030	Pentose phosphate pathway	Carbohydrate metabolism
+slr0194	syn00030	Pentose phosphate pathway	Carbohydrate metabolism
+ssl2153	syn00030	Pentose phosphate pathway	Carbohydrate metabolism
+sll1776	syn00030	Pentose phosphate pathway	Carbohydrate metabolism
+sll0726	syn00030	Pentose phosphate pathway	Carbohydrate metabolism
+sll0469	syn00030	Pentose phosphate pathway	Carbohydrate metabolism
+sll0107	syn00030	Pentose phosphate pathway	Carbohydrate metabolism
+sll1709	syn00030	Pentose phosphate pathway	Carbohydrate metabolism
+slr0943	syn00030	Pentose phosphate pathway	Carbohydrate metabolism
+sll0018	syn00030	Pentose phosphate pathway	Carbohydrate metabolism
+slr0952	syn00030	Pentose phosphate pathway	Carbohydrate metabolism
+slr2094	syn00030	Pentose phosphate pathway	Carbohydrate metabolism
+sll1196	syn00030	Pentose phosphate pathway	Carbohydrate metabolism
+sll0745	syn00030	Pentose phosphate pathway	Carbohydrate metabolism
+slr1299	syn00040	Pentose and glucuronate interconversions	Carbohydrate metabolism
+sll0807	syn00040	Pentose and glucuronate interconversions	Carbohydrate metabolism
+slr0091	syn00040	Pentose and glucuronate interconversions	Carbohydrate metabolism
+slr1448	syn00051	Fructose and mannose metabolism	Carbohydrate metabolism
+slr0493	syn00051	Fructose and mannose metabolism	Carbohydrate metabolism
+sll1496	syn00051	Fructose and mannose metabolism	Carbohydrate metabolism
+sll1370	syn00051	Fructose and mannose metabolism	Carbohydrate metabolism
+slr2074	syn00051	Fructose and mannose metabolism	Carbohydrate metabolism
+sll1558	syn00051	Fructose and mannose metabolism	Carbohydrate metabolism
+sll1212	syn00051	Fructose and mannose metabolism	Carbohydrate metabolism
+slr1072	syn00051	Fructose and mannose metabolism	Carbohydrate metabolism
+sll1213	syn00051	Fructose and mannose metabolism	Carbohydrate metabolism
+sll1196	syn00051	Fructose and mannose metabolism	Carbohydrate metabolism
+sll0745	syn00051	Fructose and mannose metabolism	Carbohydrate metabolism
+slr0952	syn00051	Fructose and mannose metabolism	Carbohydrate metabolism
+slr2094	syn00051	Fructose and mannose metabolism	Carbohydrate metabolism
+slr0943	syn00051	Fructose and mannose metabolism	Carbohydrate metabolism
+sll0018	syn00051	Fructose and mannose metabolism	Carbohydrate metabolism
+slr0783	syn00051	Fructose and mannose metabolism	Carbohydrate metabolism
+ssl2153	syn00051	Fructose and mannose metabolism	Carbohydrate metabolism
+slr1067	syn00052	Galactose metabolism	Carbohydrate metabolism
+slr1078	syn00052	Galactose metabolism	Carbohydrate metabolism
+sll0244	syn00052	Galactose metabolism	Carbohydrate metabolism
+sll0726	syn00052	Galactose metabolism	Carbohydrate metabolism
+sll0593	syn00052	Galactose metabolism	Carbohydrate metabolism
+slr0329	syn00052	Galactose metabolism	Carbohydrate metabolism
+sll1196	syn00052	Galactose metabolism	Carbohydrate metabolism
+sll0745	syn00052	Galactose metabolism	Carbohydrate metabolism
+slr1299	syn00053	Ascorbate and aldarate metabolism	Carbohydrate metabolism
+slr0091	syn00053	Ascorbate and aldarate metabolism	Carbohydrate metabolism
+sll0045	syn00500	Starch and sucrose metabolism	Carbohydrate metabolism
+sll1538	syn00500	Starch and sucrose metabolism	Carbohydrate metabolism
+sll1138	syn00500	Starch and sucrose metabolism	Carbohydrate metabolism
+slr0237	syn00500	Starch and sucrose metabolism	Carbohydrate metabolism
+slr1857	syn00500	Starch and sucrose metabolism	Carbohydrate metabolism
+slr1299	syn00500	Starch and sucrose metabolism	Carbohydrate metabolism
+sll0726	syn00500	Starch and sucrose metabolism	Carbohydrate metabolism
+sll0593	syn00500	Starch and sucrose metabolism	Carbohydrate metabolism
+slr0329	syn00500	Starch and sucrose metabolism	Carbohydrate metabolism
+slr1349	syn00500	Starch and sucrose metabolism	Carbohydrate metabolism
+slr1448	syn00500	Starch and sucrose metabolism	Carbohydrate metabolism
+slr1176	syn00500	Starch and sucrose metabolism	Carbohydrate metabolism
+sll0945	syn00500	Starch and sucrose metabolism	Carbohydrate metabolism
+sll1393	syn00500	Starch and sucrose metabolism	Carbohydrate metabolism
+sll0158	syn00500	Starch and sucrose metabolism	Carbohydrate metabolism
+sll1356	syn00500	Starch and sucrose metabolism	Carbohydrate metabolism
+slr1367	syn00500	Starch and sucrose metabolism	Carbohydrate metabolism
+sll1676	syn00500	Starch and sucrose metabolism	Carbohydrate metabolism
+slr0983	syn00500	Starch and sucrose metabolism	Carbohydrate metabolism
+slr0897	syn00500	Starch and sucrose metabolism	Carbohydrate metabolism
+sll0861	syn00520	Amino sugar and nucleotide sugar metabolism	Carbohydrate metabolism
+sll0899	syn00520	Amino sugar and nucleotide sugar metabolism	Carbohydrate metabolism
+slr0624	syn00520	Amino sugar and nucleotide sugar metabolism	Carbohydrate metabolism
+slr1975	syn00520	Amino sugar and nucleotide sugar metabolism	Carbohydrate metabolism
+slr0017	syn00520	Amino sugar and nucleotide sugar metabolism	Carbohydrate metabolism
+slr1424	syn00520	Amino sugar and nucleotide sugar metabolism	Carbohydrate metabolism
+sll1758	syn00520	Amino sugar and nucleotide sugar metabolism	Carbohydrate metabolism
+slr1448	syn00520	Amino sugar and nucleotide sugar metabolism	Carbohydrate metabolism
+sll0220	syn00520	Amino sugar and nucleotide sugar metabolism	Carbohydrate metabolism
+sll0593	syn00520	Amino sugar and nucleotide sugar metabolism	Carbohydrate metabolism
+slr0329	syn00520	Amino sugar and nucleotide sugar metabolism	Carbohydrate metabolism
+slr1349	syn00520	Amino sugar and nucleotide sugar metabolism	Carbohydrate metabolism
+sll0726	syn00520	Amino sugar and nucleotide sugar metabolism	Carbohydrate metabolism
+slr1299	syn00520	Amino sugar and nucleotide sugar metabolism	Carbohydrate metabolism
+slr1020	syn00520	Amino sugar and nucleotide sugar metabolism	Carbohydrate metabolism
+slr1067	syn00520	Amino sugar and nucleotide sugar metabolism	Carbohydrate metabolism
+slr1078	syn00520	Amino sugar and nucleotide sugar metabolism	Carbohydrate metabolism
+sll0244	syn00520	Amino sugar and nucleotide sugar metabolism	Carbohydrate metabolism
+sll1496	syn00520	Amino sugar and nucleotide sugar metabolism	Carbohydrate metabolism
+sll1558	syn00520	Amino sugar and nucleotide sugar metabolism	Carbohydrate metabolism
+sll1370	syn00520	Amino sugar and nucleotide sugar metabolism	Carbohydrate metabolism
+slr2074	syn00520	Amino sugar and nucleotide sugar metabolism	Carbohydrate metabolism
+sll1212	syn00520	Amino sugar and nucleotide sugar metabolism	Carbohydrate metabolism
+slr1072	syn00520	Amino sugar and nucleotide sugar metabolism	Carbohydrate metabolism
+slr2114	syn00520	Amino sugar and nucleotide sugar metabolism	Carbohydrate metabolism
+slr1615	syn00520	Amino sugar and nucleotide sugar metabolism	Carbohydrate metabolism
+slr0493	syn00520	Amino sugar and nucleotide sugar metabolism	Carbohydrate metabolism
+sll1213	syn00520	Amino sugar and nucleotide sugar metabolism	Carbohydrate metabolism
+slr0983	syn00520	Amino sugar and nucleotide sugar metabolism	Carbohydrate metabolism
+slr0984	syn00520	Amino sugar and nucleotide sugar metabolism	Carbohydrate metabolism
+slr1176	syn00520	Amino sugar and nucleotide sugar metabolism	Carbohydrate metabolism
+sll0542	syn00620	Pyruvate metabolism	Carbohydrate metabolism
+slr1934	syn00620	Pyruvate metabolism	Carbohydrate metabolism
+sll1721	syn00620	Pyruvate metabolism	Carbohydrate metabolism
+sll1841	syn00620	Pyruvate metabolism	Carbohydrate metabolism
+slr1096	syn00620	Pyruvate metabolism	Carbohydrate metabolism
+sll1299	syn00620	Pyruvate metabolism	Carbohydrate metabolism
+slr2132	syn00620	Pyruvate metabolism	Carbohydrate metabolism
+sll1275	syn00620	Pyruvate metabolism	Carbohydrate metabolism
+sll0587	syn00620	Pyruvate metabolism	Carbohydrate metabolism
+sll0728	syn00620	Pyruvate metabolism	Carbohydrate metabolism
+slr0435	syn00620	Pyruvate metabolism	Carbohydrate metabolism
+sll0053	syn00620	Pyruvate metabolism	Carbohydrate metabolism
+sll0336	syn00620	Pyruvate metabolism	Carbohydrate metabolism
+slr0091	syn00620	Pyruvate metabolism	Carbohydrate metabolism
+slr1556	syn00620	Pyruvate metabolism	Carbohydrate metabolism
+slr0381	syn00620	Pyruvate metabolism	Carbohydrate metabolism
+sll1019	syn00620	Pyruvate metabolism	Carbohydrate metabolism
+sll0036	syn00620	Pyruvate metabolism	Carbohydrate metabolism
+slr0721	syn00620	Pyruvate metabolism	Carbohydrate metabolism
+sll0891	syn00620	Pyruvate metabolism	Carbohydrate metabolism
+slr0018	syn00620	Pyruvate metabolism	Carbohydrate metabolism
+sll0920	syn00620	Pyruvate metabolism	Carbohydrate metabolism
+slr0301	syn00620	Pyruvate metabolism	Carbohydrate metabolism
+slr1993	syn00620	Pyruvate metabolism	Carbohydrate metabolism
+sll1564	syn00620	Pyruvate metabolism	Carbohydrate metabolism
+slr0186	syn00620	Pyruvate metabolism	Carbohydrate metabolism
+sll0891	syn00630	Glyoxylate and dicarboxylate metabolism	Carbohydrate metabolism
+sll0401	syn00630	Glyoxylate and dicarboxylate metabolism	Carbohydrate metabolism
+slr0665	syn00630	Glyoxylate and dicarboxylate metabolism	Carbohydrate metabolism
+slr1993	syn00630	Glyoxylate and dicarboxylate metabolism	Carbohydrate metabolism
+sll0404	syn00630	Glyoxylate and dicarboxylate metabolism	Carbohydrate metabolism
+sll1189	syn00630	Glyoxylate and dicarboxylate metabolism	Carbohydrate metabolism
+sll1831	syn00630	Glyoxylate and dicarboxylate metabolism	Carbohydrate metabolism
+sll1349	syn00630	Glyoxylate and dicarboxylate metabolism	Carbohydrate metabolism
+slr1762	syn00630	Glyoxylate and dicarboxylate metabolism	Carbohydrate metabolism
+slr0458	syn00630	Glyoxylate and dicarboxylate metabolism	Carbohydrate metabolism
+slr0009	syn00630	Glyoxylate and dicarboxylate metabolism	Carbohydrate metabolism
+slr0012	syn00630	Glyoxylate and dicarboxylate metabolism	Carbohydrate metabolism
+sll1499	syn00630	Glyoxylate and dicarboxylate metabolism	Carbohydrate metabolism
+sll1502	syn00630	Glyoxylate and dicarboxylate metabolism	Carbohydrate metabolism
+slr0288	syn00630	Glyoxylate and dicarboxylate metabolism	Carbohydrate metabolism
+slr1756	syn00630	Glyoxylate and dicarboxylate metabolism	Carbohydrate metabolism
+sll1931	syn00630	Glyoxylate and dicarboxylate metabolism	Carbohydrate metabolism
+slr0879	syn00630	Glyoxylate and dicarboxylate metabolism	Carbohydrate metabolism
+sll0107	syn00630	Glyoxylate and dicarboxylate metabolism	Carbohydrate metabolism
+sll1358	syn00630	Glyoxylate and dicarboxylate metabolism	Carbohydrate metabolism
+slr2121	syn00630	Glyoxylate and dicarboxylate metabolism	Carbohydrate metabolism
+sll0070	syn00630	Glyoxylate and dicarboxylate metabolism	Carbohydrate metabolism
+slr1993	syn00640	Propanoate metabolism	Carbohydrate metabolism
+sll0542	syn00640	Propanoate metabolism	Carbohydrate metabolism
+sll1299	syn00640	Propanoate metabolism	Carbohydrate metabolism
+slr2132	syn00640	Propanoate metabolism	Carbohydrate metabolism
+sll0728	syn00640	Propanoate metabolism	Carbohydrate metabolism
+slr0435	syn00640	Propanoate metabolism	Carbohydrate metabolism
+sll0053	syn00640	Propanoate metabolism	Carbohydrate metabolism
+sll0336	syn00640	Propanoate metabolism	Carbohydrate metabolism
+sll1023	syn00640	Propanoate metabolism	Carbohydrate metabolism
+sll1557	syn00640	Propanoate metabolism	Carbohydrate metabolism
+slr0665	syn00640	Propanoate metabolism	Carbohydrate metabolism
+slr0091	syn00640	Propanoate metabolism	Carbohydrate metabolism
+slr1993	syn00650	Butanoate metabolism	Carbohydrate metabolism
+slr1830	syn00650	Butanoate metabolism	Carbohydrate metabolism
+slr1233	syn00650	Butanoate metabolism	Carbohydrate metabolism
+sll1625	syn00650	Butanoate metabolism	Carbohydrate metabolism
+sll0823	syn00650	Butanoate metabolism	Carbohydrate metabolism
+sll1641	syn00650	Butanoate metabolism	Carbohydrate metabolism
+slr0370	syn00650	Butanoate metabolism	Carbohydrate metabolism
+sll1981	syn00650	Butanoate metabolism	Carbohydrate metabolism
+slr2088	syn00650	Butanoate metabolism	Carbohydrate metabolism
+sll0065	syn00650	Butanoate metabolism	Carbohydrate metabolism
+sll1981	syn00660	C5-Branched dibasic acid metabolism	Carbohydrate metabolism
+slr2088	syn00660	C5-Branched dibasic acid metabolism	Carbohydrate metabolism
+sll0065	syn00660	C5-Branched dibasic acid metabolism	Carbohydrate metabolism
+sll1023	syn00660	C5-Branched dibasic acid metabolism	Carbohydrate metabolism
+sll1557	syn00660	C5-Branched dibasic acid metabolism	Carbohydrate metabolism
+sll1470	syn00660	C5-Branched dibasic acid metabolism	Carbohydrate metabolism
+sll1444	syn00660	C5-Branched dibasic acid metabolism	Carbohydrate metabolism
+slr1517	syn00660	C5-Branched dibasic acid metabolism	Carbohydrate metabolism
+sll1383	syn00562	Inositol phosphate metabolism	Carbohydrate metabolism
+sll1329	syn00562	Inositol phosphate metabolism	Carbohydrate metabolism
+slr0783	syn00562	Inositol phosphate metabolism	Carbohydrate metabolism
+sll0519	syn00190	Oxidative phosphorylation	Energy metabolism
+sll0223	syn00190	Oxidative phosphorylation	Energy metabolism
+slr1279	syn00190	Oxidative phosphorylation	Energy metabolism
+slr0331	syn00190	Oxidative phosphorylation	Energy metabolism
+slr1291	syn00190	Oxidative phosphorylation	Energy metabolism
+sll0027	syn00190	Oxidative phosphorylation	Energy metabolism
+sll1733	syn00190	Oxidative phosphorylation	Energy metabolism
+slr2009	syn00190	Oxidative phosphorylation	Energy metabolism
+sll0522	syn00190	Oxidative phosphorylation	Energy metabolism
+slr0844	syn00190	Oxidative phosphorylation	Energy metabolism
+sll0026	syn00190	Oxidative phosphorylation	Energy metabolism
+sll1732	syn00190	Oxidative phosphorylation	Energy metabolism
+sll0521	syn00190	Oxidative phosphorylation	Energy metabolism
+slr0261	syn00190	Oxidative phosphorylation	Energy metabolism
+sll0520	syn00190	Oxidative phosphorylation	Energy metabolism
+slr1281	syn00190	Oxidative phosphorylation	Energy metabolism
+slr1280	syn00190	Oxidative phosphorylation	Energy metabolism
+ssr1386	syn00190	Oxidative phosphorylation	Energy metabolism
+slr1623	syn00190	Oxidative phosphorylation	Energy metabolism
+sll1262	syn00190	Oxidative phosphorylation	Energy metabolism
+sll1220	syn00190	Oxidative phosphorylation	Energy metabolism
+sll1221	syn00190	Oxidative phosphorylation	Energy metabolism
+sll1223	syn00190	Oxidative phosphorylation	Energy metabolism
+sll1484	syn00190	Oxidative phosphorylation	Energy metabolism
+slr0851	syn00190	Oxidative phosphorylation	Energy metabolism
+slr1743	syn00190	Oxidative phosphorylation	Energy metabolism
+slr1233	syn00190	Oxidative phosphorylation	Energy metabolism
+sll1625	syn00190	Oxidative phosphorylation	Energy metabolism
+sll0823	syn00190	Oxidative phosphorylation	Energy metabolism
+sll1899	syn00190	Oxidative phosphorylation	Energy metabolism
+slr1138	syn00190	Oxidative phosphorylation	Energy metabolism
+slr2083	syn00190	Oxidative phosphorylation	Energy metabolism
+slr1137	syn00190	Oxidative phosphorylation	Energy metabolism
+slr2082	syn00190	Oxidative phosphorylation	Energy metabolism
+slr1136	syn00190	Oxidative phosphorylation	Energy metabolism
+sll0813	syn00190	Oxidative phosphorylation	Energy metabolism
+sll1898	syn00190	Oxidative phosphorylation	Energy metabolism
+slr1379	syn00190	Oxidative phosphorylation	Energy metabolism
+slr1380	syn00190	Oxidative phosphorylation	Energy metabolism
+sll1326	syn00190	Oxidative phosphorylation	Energy metabolism
+slr1329	syn00190	Oxidative phosphorylation	Energy metabolism
+sll1327	syn00190	Oxidative phosphorylation	Energy metabolism
+sll1325	syn00190	Oxidative phosphorylation	Energy metabolism
+slr1330	syn00190	Oxidative phosphorylation	Energy metabolism
+sll1322	syn00190	Oxidative phosphorylation	Energy metabolism
+sll1323	syn00190	Oxidative phosphorylation	Energy metabolism
+sll1324	syn00190	Oxidative phosphorylation	Energy metabolism
+ssl2615	syn00190	Oxidative phosphorylation	Energy metabolism
+slr1622	syn00190	Oxidative phosphorylation	Energy metabolism
+sll0290	syn00190	Oxidative phosphorylation	Energy metabolism
+sll1867	syn00195	Photosynthesis	Energy metabolism
+slr1181	syn00195	Photosynthesis	Energy metabolism
+slr1311	syn00195	Photosynthesis	Energy metabolism
+slr0906	syn00195	Photosynthesis	Energy metabolism
+sll0851	syn00195	Photosynthesis	Energy metabolism
+slr0927	syn00195	Photosynthesis	Energy metabolism
+sll0849	syn00195	Photosynthesis	Energy metabolism
+ssr3451	syn00195	Photosynthesis	Energy metabolism
+smr0006	syn00195	Photosynthesis	Energy metabolism
+ssl2598	syn00195	Photosynthesis	Energy metabolism
+sml0001	syn00195	Photosynthesis	Energy metabolism
+smr0008	syn00195	Photosynthesis	Energy metabolism
+sml0005	syn00195	Photosynthesis	Energy metabolism
+smr0007	syn00195	Photosynthesis	Energy metabolism
+sml0003	syn00195	Photosynthesis	Energy metabolism
+sll0427	syn00195	Photosynthesis	Energy metabolism
+sll1418	syn00195	Photosynthesis	Energy metabolism
+smr0001	syn00195	Photosynthesis	Energy metabolism
+sll1194	syn00195	Photosynthesis	Energy metabolism
+sll0258	syn00195	Photosynthesis	Energy metabolism
+sml0002	syn00195	Photosynthesis	Energy metabolism
+sml0007	syn00195	Photosynthesis	Energy metabolism
+sll1281	syn00195	Photosynthesis	Energy metabolism
+slr1645	syn00195	Photosynthesis	Energy metabolism
+sll1398	syn00195	Photosynthesis	Energy metabolism
+slr1739	syn00195	Photosynthesis	Energy metabolism
+slr1834	syn00195	Photosynthesis	Energy metabolism
+slr1835	syn00195	Photosynthesis	Energy metabolism
+ssl0563	syn00195	Photosynthesis	Energy metabolism
+slr0737	syn00195	Photosynthesis	Energy metabolism
+ssr2831	syn00195	Photosynthesis	Energy metabolism
+sll0819	syn00195	Photosynthesis	Energy metabolism
+smr0004	syn00195	Photosynthesis	Energy metabolism
+sml0008	syn00195	Photosynthesis	Energy metabolism
+ssr0390	syn00195	Photosynthesis	Energy metabolism
+sll0629	syn00195	Photosynthesis	Energy metabolism
+slr1655	syn00195	Photosynthesis	Energy metabolism
+smr0005	syn00195	Photosynthesis	Energy metabolism
+sll1317	syn00195	Photosynthesis	Energy metabolism
+slr0342	syn00195	Photosynthesis	Energy metabolism
+sll1182	syn00195	Photosynthesis	Energy metabolism
+sll1316	syn00195	Photosynthesis	Energy metabolism
+slr1185	syn00195	Photosynthesis	Energy metabolism
+slr0343	syn00195	Photosynthesis	Energy metabolism
+smr0010	syn00195	Photosynthesis	Energy metabolism
+sll1994	syn00195	Photosynthesis	Energy metabolism
+smr0003	syn00195	Photosynthesis	Energy metabolism
+sml0004	syn00195	Photosynthesis	Energy metabolism
+sll0199	syn00195	Photosynthesis	Energy metabolism
+sll1382	syn00195	Photosynthesis	Energy metabolism
+slr1828	syn00195	Photosynthesis	Energy metabolism
+ssl0020	syn00195	Photosynthesis	Energy metabolism
+slr0150	syn00195	Photosynthesis	Energy metabolism
+slr1643	syn00195	Photosynthesis	Energy metabolism
+sll1796	syn00195	Photosynthesis	Energy metabolism
+slr1330	syn00195	Photosynthesis	Energy metabolism
+slr1329	syn00195	Photosynthesis	Energy metabolism
+sll1327	syn00195	Photosynthesis	Energy metabolism
+sll1326	syn00195	Photosynthesis	Energy metabolism
+sll1325	syn00195	Photosynthesis	Energy metabolism
+sll1323	syn00195	Photosynthesis	Energy metabolism
+sll1324	syn00195	Photosynthesis	Energy metabolism
+ssl2615	syn00195	Photosynthesis	Energy metabolism
+sll1322	syn00195	Photosynthesis	Energy metabolism
+slr2067	syn00196	Photosynthesis - antenna proteins	Energy metabolism
+slr1986	syn00196	Photosynthesis - antenna proteins	Energy metabolism
+ssr3383	syn00196	Photosynthesis - antenna proteins	Energy metabolism
+sll0928	syn00196	Photosynthesis - antenna proteins	Energy metabolism
+slr0335	syn00196	Photosynthesis - antenna proteins	Energy metabolism
+slr1459	syn00196	Photosynthesis - antenna proteins	Energy metabolism
+sll1578	syn00196	Photosynthesis - antenna proteins	Energy metabolism
+sll1577	syn00196	Photosynthesis - antenna proteins	Energy metabolism
+sll1579	syn00196	Photosynthesis - antenna proteins	Energy metabolism
+sll1580	syn00196	Photosynthesis - antenna proteins	Energy metabolism
+ssl3093	syn00196	Photosynthesis - antenna proteins	Energy metabolism
+slr1878	syn00196	Photosynthesis - antenna proteins	Energy metabolism
+sll1051	syn00196	Photosynthesis - antenna proteins	Energy metabolism
+sll1471	syn00196	Photosynthesis - antenna proteins	Energy metabolism
+slr2051	syn00196	Photosynthesis - antenna proteins	Energy metabolism
+slr0009	syn00710	Carbon fixation in photosynthetic organisms	Energy metabolism
+slr0012	syn00710	Carbon fixation in photosynthetic organisms	Energy metabolism
+slr0394	syn00710	Carbon fixation in photosynthetic organisms	Energy metabolism
+slr0884	syn00710	Carbon fixation in photosynthetic organisms	Energy metabolism
+sll1342	syn00710	Carbon fixation in photosynthetic organisms	Energy metabolism
+slr0943	syn00710	Carbon fixation in photosynthetic organisms	Energy metabolism
+sll0018	syn00710	Carbon fixation in photosynthetic organisms	Energy metabolism
+slr0952	syn00710	Carbon fixation in photosynthetic organisms	Energy metabolism
+slr2094	syn00710	Carbon fixation in photosynthetic organisms	Energy metabolism
+sll1070	syn00710	Carbon fixation in photosynthetic organisms	Energy metabolism
+slr0194	syn00710	Carbon fixation in photosynthetic organisms	Energy metabolism
+ssl2153	syn00710	Carbon fixation in photosynthetic organisms	Energy metabolism
+sll1525	syn00710	Carbon fixation in photosynthetic organisms	Energy metabolism
+slr0783	syn00710	Carbon fixation in photosynthetic organisms	Energy metabolism
+sll0807	syn00710	Carbon fixation in photosynthetic organisms	Energy metabolism
+sll0920	syn00710	Carbon fixation in photosynthetic organisms	Energy metabolism
+sll0891	syn00710	Carbon fixation in photosynthetic organisms	Energy metabolism
+sll0990	syn00680	Methane metabolism	Energy metabolism
+sll0992	syn00680	Methane metabolism	Energy metabolism
+sll1931	syn00680	Methane metabolism	Energy metabolism
+slr0752	syn00680	Methane metabolism	Energy metabolism
+sll0920	syn00680	Methane metabolism	Energy metabolism
+sll0891	syn00680	Methane metabolism	Energy metabolism
+slr0943	syn00680	Methane metabolism	Energy metabolism
+sll0018	syn00680	Methane metabolism	Energy metabolism
+slr0952	syn00680	Methane metabolism	Energy metabolism
+slr2094	syn00680	Methane metabolism	Energy metabolism
+sll1196	syn00680	Methane metabolism	Energy metabolism
+sll0745	syn00680	Methane metabolism	Energy metabolism
+slr1923	syn00680	Methane metabolism	Energy metabolism
+slr0201	syn00680	Methane metabolism	Energy metabolism
+sll1299	syn00680	Methane metabolism	Energy metabolism
+slr2132	syn00680	Methane metabolism	Energy metabolism
+sll0542	syn00680	Methane metabolism	Energy metabolism
+slr0301	syn00680	Methane metabolism	Energy metabolism
+slr1945	syn00680	Methane metabolism	Energy metabolism
+slr1748	syn00680	Methane metabolism	Energy metabolism
+slr1124	syn00680	Methane metabolism	Energy metabolism
+sll1908	syn00680	Methane metabolism	Energy metabolism
+slr1718	syn00680	Methane metabolism	Energy metabolism
+sll1285	syn00680	Methane metabolism	Energy metabolism
+sll1659	syn00680	Methane metabolism	Energy metabolism
+sll1450	syn00910	Nitrogen metabolism	Energy metabolism
+sll1451	syn00910	Nitrogen metabolism	Energy metabolism
+sll1452	syn00910	Nitrogen metabolism	Energy metabolism
+sll1453	syn00910	Nitrogen metabolism	Energy metabolism
+sll1454	syn00910	Nitrogen metabolism	Energy metabolism
+slr0898	syn00910	Nitrogen metabolism	Energy metabolism
+sll0450	syn00910	Nitrogen metabolism	Energy metabolism
+slr0710	syn00910	Nitrogen metabolism	Energy metabolism
+slr0288	syn00910	Nitrogen metabolism	Energy metabolism
+slr1756	syn00910	Nitrogen metabolism	Energy metabolism
+sll1027	syn00910	Nitrogen metabolism	Energy metabolism
+sll1499	syn00910	Nitrogen metabolism	Energy metabolism
+sll1502	syn00910	Nitrogen metabolism	Energy metabolism
+slr0899	syn00910	Nitrogen metabolism	Energy metabolism
+sll0573	syn00910	Nitrogen metabolism	Energy metabolism
+slr0051	syn00910	Nitrogen metabolism	Energy metabolism
+slr1347	syn00910	Nitrogen metabolism	Energy metabolism
+slr1452	syn00920	Sulfur metabolism	Energy metabolism
+slr1453	syn00920	Sulfur metabolism	Energy metabolism
+slr1454	syn00920	Sulfur metabolism	Energy metabolism
+slr1455	syn00920	Sulfur metabolism	Energy metabolism
+slr1165	syn00920	Sulfur metabolism	Energy metabolism
+slr0676	syn00920	Sulfur metabolism	Energy metabolism
+sll0895	syn00920	Sulfur metabolism	Energy metabolism
+slr1791	syn00920	Sulfur metabolism	Energy metabolism
+slr0963	syn00920	Sulfur metabolism	Energy metabolism
+slr1348	syn00920	Sulfur metabolism	Energy metabolism
+sll0712	syn00920	Sulfur metabolism	Energy metabolism
+slr1842	syn00920	Sulfur metabolism	Energy metabolism
+sll5036	syn00920	Sulfur metabolism	Energy metabolism
+slr0876	syn00920	Sulfur metabolism	Energy metabolism
+sll0728	syn00061	Fatty acid biosynthesis	Lipid metabolism
+slr0435	syn00061	Fatty acid biosynthesis	Lipid metabolism
+sll0053	syn00061	Fatty acid biosynthesis	Lipid metabolism
+sll0336	syn00061	Fatty acid biosynthesis	Lipid metabolism
+slr2023	syn00061	Fatty acid biosynthesis	Lipid metabolism
+sll1069	syn00061	Fatty acid biosynthesis	Lipid metabolism
+slr1332	syn00061	Fatty acid biosynthesis	Lipid metabolism
+slr1511	syn00061	Fatty acid biosynthesis	Lipid metabolism
+slr0886	syn00061	Fatty acid biosynthesis	Lipid metabolism
+slr1994	syn00061	Fatty acid biosynthesis	Lipid metabolism
+sll5079	syn00061	Fatty acid biosynthesis	Lipid metabolism
+sll1605	syn00061	Fatty acid biosynthesis	Lipid metabolism
+slr1051	syn00061	Fatty acid biosynthesis	Lipid metabolism
+slr1993	syn00071	Fatty acid degradation	Lipid metabolism
+slr1609	syn00071	Fatty acid degradation	Lipid metabolism
+sll0990	syn00071	Fatty acid degradation	Lipid metabolism
+slr0091	syn00071	Fatty acid degradation	Lipid metabolism
+slr1993		Synthesis and degradation of ketone bodies	Lipid metabolism
+sll0513	syn00100	Steroid biosynthesis	Lipid metabolism
+slr1772	syn00121	Secondary bile acid biosynthesis	Lipid metabolism
+slr0091	syn00561	Glycerolipid metabolism	Lipid metabolism
+slr0942	syn00561	Glycerolipid metabolism	Lipid metabolism
+slr1167	syn00561	Glycerolipid metabolism	Lipid metabolism
+slr1672	syn00561	Glycerolipid metabolism	Lipid metabolism
+slr1510	syn00561	Glycerolipid metabolism	Lipid metabolism
+sll1973	syn00561	Glycerolipid metabolism	Lipid metabolism
+sll1848	syn00561	Glycerolipid metabolism	Lipid metabolism
+slr0054	syn00561	Glycerolipid metabolism	Lipid metabolism
+sll1969	syn00561	Glycerolipid metabolism	Lipid metabolism
+sll1377	syn00561	Glycerolipid metabolism	Lipid metabolism
+slr1020	syn00561	Glycerolipid metabolism	Lipid metabolism
+slr1755	syn00564	Glycerophospholipid metabolism	Lipid metabolism
+sll1085	syn00564	Glycerophospholipid metabolism	Lipid metabolism
+slr1510	syn00564	Glycerophospholipid metabolism	Lipid metabolism
+sll1973	syn00564	Glycerophospholipid metabolism	Lipid metabolism
+sll1848	syn00564	Glycerophospholipid metabolism	Lipid metabolism
+slr0054	syn00564	Glycerophospholipid metabolism	Lipid metabolism
+slr1369	syn00564	Glycerophospholipid metabolism	Lipid metabolism
+sll1522	syn00564	Glycerophospholipid metabolism	Lipid metabolism
+slr0813	syn00600	Sphingolipid metabolism	Lipid metabolism
+sll1775	syn00600	Sphingolipid metabolism	Lipid metabolism
+slr1269	syn00590	Arachidonic acid metabolism	Lipid metabolism
+slr1171	syn00590	Arachidonic acid metabolism	Lipid metabolism
+slr1992	syn00590	Arachidonic acid metabolism	Lipid metabolism
+sll0262		Linoleic acid metabolism	Lipid metabolism
+slr0886	syn01040	Biosynthesis of unsaturated fatty acids	Lipid metabolism
+slr1994	syn01040	Biosynthesis of unsaturated fatty acids	Lipid metabolism
+sll5079	syn01040	Biosynthesis of unsaturated fatty acids	Lipid metabolism
+sll0541	syn01040	Biosynthesis of unsaturated fatty acids	Lipid metabolism
+slr1350	syn01040	Biosynthesis of unsaturated fatty acids	Lipid metabolism
+sll1441	syn01040	Biosynthesis of unsaturated fatty acids	Lipid metabolism
+sll1054	syn00230	Purine metabolism	Nucleotide metabolism
+slr1134	syn00230	Purine metabolism	Nucleotide metabolism
+sll0726	syn00230	Purine metabolism	Nucleotide metabolism
+sll0469	syn00230	Purine metabolism	Nucleotide metabolism
+sll0757	syn00230	Purine metabolism	Nucleotide metabolism
+slr1159	syn00230	Purine metabolism	Nucleotide metabolism
+slr0477	syn00230	Purine metabolism	Nucleotide metabolism
+slr0861	syn00230	Purine metabolism	Nucleotide metabolism
+sll1056	syn00230	Purine metabolism	Nucleotide metabolism
+slr0520	syn00230	Purine metabolism	Nucleotide metabolism
+slr0519	syn00230	Purine metabolism	Nucleotide metabolism
+slr0838	syn00230	Purine metabolism	Nucleotide metabolism
+sll0578	syn00230	Purine metabolism	Nucleotide metabolism
+sll0901	syn00230	Purine metabolism	Nucleotide metabolism
+slr1226	syn00230	Purine metabolism	Nucleotide metabolism
+sll0421	syn00230	Purine metabolism	Nucleotide metabolism
+slr0597	syn00230	Purine metabolism	Nucleotide metabolism
+sll1430	syn00230	Purine metabolism	Nucleotide metabolism
+sll1108	syn00230	Purine metabolism	Nucleotide metabolism
+sll1459	syn00230	Purine metabolism	Nucleotide metabolism
+slr1722	syn00230	Purine metabolism	Nucleotide metabolism
+sll1852	syn00230	Purine metabolism	Nucleotide metabolism
+sll1005	syn00230	Purine metabolism	Nucleotide metabolism
+slr0402	syn00230	Purine metabolism	Nucleotide metabolism
+slr0213	syn00230	Purine metabolism	Nucleotide metabolism
+slr1123	syn00230	Purine metabolism	Nucleotide metabolism
+sll1275	syn00230	Purine metabolism	Nucleotide metabolism
+sll0587	syn00230	Purine metabolism	Nucleotide metabolism
+slr1164	syn00230	Purine metabolism	Nucleotide metabolism
+slr0591	syn00230	Purine metabolism	Nucleotide metabolism
+sll0398	syn00230	Purine metabolism	Nucleotide metabolism
+sll1818	syn00230	Purine metabolism	Nucleotide metabolism
+sll1787	syn00230	Purine metabolism	Nucleotide metabolism
+sll1789	syn00230	Purine metabolism	Nucleotide metabolism
+slr1265	syn00230	Purine metabolism	Nucleotide metabolism
+ssl2982	syn00230	Purine metabolism	Nucleotide metabolism
+slr0707	syn00230	Purine metabolism	Nucleotide metabolism
+sll1572	syn00230	Purine metabolism	Nucleotide metabolism
+slr0603	syn00230	Purine metabolism	Nucleotide metabolism
+slr0965	syn00230	Purine metabolism	Nucleotide metabolism
+sll1360	syn00230	Purine metabolism	Nucleotide metabolism
+sll0544	syn00230	Purine metabolism	Nucleotide metabolism
+slr0446	syn00230	Purine metabolism	Nucleotide metabolism
+slr1325	syn00230	Purine metabolism	Nucleotide metabolism
+sll1546	syn00230	Purine metabolism	Nucleotide metabolism
+sll1161	syn00230	Purine metabolism	Nucleotide metabolism
+slr1991	syn00230	Purine metabolism	Nucleotide metabolism
+sll0646	syn00230	Purine metabolism	Nucleotide metabolism
+sll1823	syn00230	Purine metabolism	Nucleotide metabolism
+sll1059	syn00230	Purine metabolism	Nucleotide metabolism
+sll1815	syn00230	Purine metabolism	Nucleotide metabolism
+sll1043	syn00230	Purine metabolism	Nucleotide metabolism
+sll0509	syn00230	Purine metabolism	Nucleotide metabolism
+slr0676	syn00230	Purine metabolism	Nucleotide metabolism
+slr1165	syn00230	Purine metabolism	Nucleotide metabolism
+sll1750	syn00230	Purine metabolism	Nucleotide metabolism
+sll0420	syn00230	Purine metabolism	Nucleotide metabolism
+slr1256	syn00230	Purine metabolism	Nucleotide metabolism
+sll0573	syn00230	Purine metabolism	Nucleotide metabolism
+sll0370	syn00240	Pyrimidine metabolism	Nucleotide metabolism
+slr1616	syn00240	Pyrimidine metabolism	Nucleotide metabolism
+sll1498	syn00240	Pyrimidine metabolism	Nucleotide metabolism
+slr1476	syn00240	Pyrimidine metabolism	Nucleotide metabolism
+sll1018	syn00240	Pyrimidine metabolism	Nucleotide metabolism
+slr0406	syn00240	Pyrimidine metabolism	Nucleotide metabolism
+sll0744	syn00240	Pyrimidine metabolism	Nucleotide metabolism
+slr1418	syn00240	Pyrimidine metabolism	Nucleotide metabolism
+slr0185	syn00240	Pyrimidine metabolism	Nucleotide metabolism
+sll0838	syn00240	Pyrimidine metabolism	Nucleotide metabolism
+sll1249	syn00240	Pyrimidine metabolism	Nucleotide metabolism
+sll0144	syn00240	Pyrimidine metabolism	Nucleotide metabolism
+sll1852	syn00240	Pyrimidine metabolism	Nucleotide metabolism
+sll1043	syn00240	Pyrimidine metabolism	Nucleotide metabolism
+sll1443	syn00240	Pyrimidine metabolism	Nucleotide metabolism
+sll1818	syn00240	Pyrimidine metabolism	Nucleotide metabolism
+sll1787	syn00240	Pyrimidine metabolism	Nucleotide metabolism
+sll1789	syn00240	Pyrimidine metabolism	Nucleotide metabolism
+slr1265	syn00240	Pyrimidine metabolism	Nucleotide metabolism
+ssl2982	syn00240	Pyrimidine metabolism	Nucleotide metabolism
+slr0707	syn00240	Pyrimidine metabolism	Nucleotide metabolism
+sll1572	syn00240	Pyrimidine metabolism	Nucleotide metabolism
+slr0603	syn00240	Pyrimidine metabolism	Nucleotide metabolism
+slr0965	syn00240	Pyrimidine metabolism	Nucleotide metabolism
+sll1360	syn00240	Pyrimidine metabolism	Nucleotide metabolism
+sll0544	syn00240	Pyrimidine metabolism	Nucleotide metabolism
+slr0446	syn00240	Pyrimidine metabolism	Nucleotide metabolism
+sll1258	syn00240	Pyrimidine metabolism	Nucleotide metabolism
+sll1108	syn00240	Pyrimidine metabolism	Nucleotide metabolism
+sll1459	syn00240	Pyrimidine metabolism	Nucleotide metabolism
+sll1035	syn00240	Pyrimidine metabolism	Nucleotide metabolism
+sll0368	syn00240	Pyrimidine metabolism	Nucleotide metabolism
+slr1237	syn00240	Pyrimidine metabolism	Nucleotide metabolism
+slr0600	syn00240	Pyrimidine metabolism	Nucleotide metabolism
+slr1164	syn00240	Pyrimidine metabolism	Nucleotide metabolism
+slr0591	syn00240	Pyrimidine metabolism	Nucleotide metabolism
+sll1635	syn00240	Pyrimidine metabolism	Nucleotide metabolism
+slr0379	syn00240	Pyrimidine metabolism	Nucleotide metabolism
+sll0402	syn00250	Alanine, aspartate and glutamate metabolism	Amino acid metabolism
+sll0631	syn00250	Alanine, aspartate and glutamate metabolism	Amino acid metabolism
+sll0422	syn00250	Alanine, aspartate and glutamate metabolism	Amino acid metabolism
+sll0585	syn00250	Alanine, aspartate and glutamate metabolism	Amino acid metabolism
+sll1682	syn00250	Alanine, aspartate and glutamate metabolism	Amino acid metabolism
+slr0585	syn00250	Alanine, aspartate and glutamate metabolism	Amino acid metabolism
+slr1133	syn00250	Alanine, aspartate and glutamate metabolism	Amino acid metabolism
+sll1823	syn00250	Alanine, aspartate and glutamate metabolism	Amino acid metabolism
+sll0421	syn00250	Alanine, aspartate and glutamate metabolism	Amino acid metabolism
+slr1705	syn00250	Alanine, aspartate and glutamate metabolism	Amino acid metabolism
+slr1476	syn00250	Alanine, aspartate and glutamate metabolism	Amino acid metabolism
+sll1641	syn00250	Alanine, aspartate and glutamate metabolism	Amino acid metabolism
+slr0370	syn00250	Alanine, aspartate and glutamate metabolism	Amino acid metabolism
+sll1027	syn00250	Alanine, aspartate and glutamate metabolism	Amino acid metabolism
+slr0710	syn00250	Alanine, aspartate and glutamate metabolism	Amino acid metabolism
+sll1561	syn00250	Alanine, aspartate and glutamate metabolism	Amino acid metabolism
+slr0288	syn00250	Alanine, aspartate and glutamate metabolism	Amino acid metabolism
+slr1756	syn00250	Alanine, aspartate and glutamate metabolism	Amino acid metabolism
+sll0370	syn00250	Alanine, aspartate and glutamate metabolism	Amino acid metabolism
+slr1616	syn00250	Alanine, aspartate and glutamate metabolism	Amino acid metabolism
+sll1498	syn00250	Alanine, aspartate and glutamate metabolism	Amino acid metabolism
+slr2079	syn00250	Alanine, aspartate and glutamate metabolism	Amino acid metabolism
+sll0220	syn00250	Alanine, aspartate and glutamate metabolism	Amino acid metabolism
+sll0757	syn00250	Alanine, aspartate and glutamate metabolism	Amino acid metabolism
+slr0657	syn00260	Glycine, serine and threonine metabolism	Amino acid metabolism
+slr0549	syn00260	Glycine, serine and threonine metabolism	Amino acid metabolism
+sll0455	syn00260	Glycine, serine and threonine metabolism	Amino acid metabolism
+sll1760	syn00260	Glycine, serine and threonine metabolism	Amino acid metabolism
+sll1172	syn00260	Glycine, serine and threonine metabolism	Amino acid metabolism
+sll1688	syn00260	Glycine, serine and threonine metabolism	Amino acid metabolism
+sll1931	syn00260	Glycine, serine and threonine metabolism	Amino acid metabolism
+sll1908	syn00260	Glycine, serine and threonine metabolism	Amino acid metabolism
+slr1945	syn00260	Glycine, serine and threonine metabolism	Amino acid metabolism
+slr1748	syn00260	Glycine, serine and threonine metabolism	Amino acid metabolism
+slr1124	syn00260	Glycine, serine and threonine metabolism	Amino acid metabolism
+slr0782	syn00260	Glycine, serine and threonine metabolism	Amino acid metabolism
+slr0293	syn00260	Glycine, serine and threonine metabolism	Amino acid metabolism
+sll0171	syn00260	Glycine, serine and threonine metabolism	Amino acid metabolism
+slr1096	syn00260	Glycine, serine and threonine metabolism	Amino acid metabolism
+slr0879	syn00260	Glycine, serine and threonine metabolism	Amino acid metabolism
+slr2072	syn00260	Glycine, serine and threonine metabolism	Amino acid metabolism
+slr0966	syn00260	Glycine, serine and threonine metabolism	Amino acid metabolism
+slr0543	syn00260	Glycine, serine and threonine metabolism	Amino acid metabolism
+slr1348	syn00270	Cysteine and methionine metabolism	Amino acid metabolism
+sll0712	syn00270	Cysteine and methionine metabolism	Amino acid metabolism
+slr1842	syn00270	Cysteine and methionine metabolism	Amino acid metabolism
+slr0212	syn00270	Cysteine and methionine metabolism	Amino acid metabolism
+sll0927	syn00270	Cysteine and methionine metabolism	Amino acid metabolism
+sll0135	syn00270	Cysteine and methionine metabolism	Amino acid metabolism
+slr1938	syn00270	Cysteine and methionine metabolism	Amino acid metabolism
+slr0214	syn00270	Cysteine and methionine metabolism	Amino acid metabolism
+sll1234	syn00270	Cysteine and methionine metabolism	Amino acid metabolism
+slr0657	syn00270	Cysteine and methionine metabolism	Amino acid metabolism
+slr0549	syn00270	Cysteine and methionine metabolism	Amino acid metabolism
+sll0455	syn00270	Cysteine and methionine metabolism	Amino acid metabolism
+sll0402	syn00270	Cysteine and methionine metabolism	Amino acid metabolism
+sll0891	syn00270	Cysteine and methionine metabolism	Amino acid metabolism
+slr0032	syn00280	Valine, leucine and isoleucine degradation	Amino acid metabolism
+slr1096	syn00280	Valine, leucine and isoleucine degradation	Amino acid metabolism
+slr0229	syn00280	Valine, leucine and isoleucine degradation	Amino acid metabolism
+slr0091	syn00280	Valine, leucine and isoleucine degradation	Amino acid metabolism
+slr1993	syn00280	Valine, leucine and isoleucine degradation	Amino acid metabolism
+slr2072	syn00290	Valine, leucine and isoleucine biosynthesis	Amino acid metabolism
+sll1470	syn00290	Valine, leucine and isoleucine biosynthesis	Amino acid metabolism
+sll1444	syn00290	Valine, leucine and isoleucine biosynthesis	Amino acid metabolism
+slr1517	syn00290	Valine, leucine and isoleucine biosynthesis	Amino acid metabolism
+sll1981	syn00290	Valine, leucine and isoleucine biosynthesis	Amino acid metabolism
+slr2088	syn00290	Valine, leucine and isoleucine biosynthesis	Amino acid metabolism
+sll0065	syn00290	Valine, leucine and isoleucine biosynthesis	Amino acid metabolism
+sll1363	syn00290	Valine, leucine and isoleucine biosynthesis	Amino acid metabolism
+slr0452	syn00290	Valine, leucine and isoleucine biosynthesis	Amino acid metabolism
+slr0032	syn00290	Valine, leucine and isoleucine biosynthesis	Amino acid metabolism
+sll1564	syn00290	Valine, leucine and isoleucine biosynthesis	Amino acid metabolism
+slr0186	syn00290	Valine, leucine and isoleucine biosynthesis	Amino acid metabolism
+sll0455	syn00300	Lysine biosynthesis	Amino acid metabolism
+slr0657	syn00300	Lysine biosynthesis	Amino acid metabolism
+slr0549	syn00300	Lysine biosynthesis	Amino acid metabolism
+slr0550	syn00300	Lysine biosynthesis	Amino acid metabolism
+sll1058	syn00300	Lysine biosynthesis	Amino acid metabolism
+slr1665	syn00300	Lysine biosynthesis	Amino acid metabolism
+sll0480	syn00300	Lysine biosynthesis	Amino acid metabolism
+sll0006	syn00300	Lysine biosynthesis	Amino acid metabolism
+sll0504	syn00300	Lysine biosynthesis	Amino acid metabolism
+slr0049	syn00300	Lysine biosynthesis	Amino acid metabolism
+slr0528	syn00300	Lysine biosynthesis	Amino acid metabolism
+slr1351	syn00300	Lysine biosynthesis	Amino acid metabolism
+slr0049	syn00310	Lysine degradation	Amino acid metabolism
+slr1993	syn00310	Lysine degradation	Amino acid metabolism
+sll1683	syn00310	Lysine degradation	Amino acid metabolism
+slr0370	syn00310	Lysine degradation	Amino acid metabolism
+sll2008	syn00310	Lysine degradation	Amino acid metabolism
+sll2009	syn00310	Lysine degradation	Amino acid metabolism
+slr0091	syn00310	Lysine degradation	Amino acid metabolism
+slr0596	syn00330	Arginine and proline metabolism	Amino acid metabolism
+slr1237	syn00330	Arginine and proline metabolism	Amino acid metabolism
+slr0662	syn00330	Arginine and proline metabolism	Amino acid metabolism
+slr1312	syn00330	Arginine and proline metabolism	Amino acid metabolism
+sll1077	syn00330	Arginine and proline metabolism	Amino acid metabolism
+sll0228	syn00330	Arginine and proline metabolism	Amino acid metabolism
+sll0873	syn00330	Arginine and proline metabolism	Amino acid metabolism
+slr0091	syn00330	Arginine and proline metabolism	Amino acid metabolism
+slr0782	syn00330	Arginine and proline metabolism	Amino acid metabolism
+sll0828	syn00330	Arginine and proline metabolism	Amino acid metabolism
+slr0661	syn00330	Arginine and proline metabolism	Amino acid metabolism
+sll1561	syn00330	Arginine and proline metabolism	Amino acid metabolism
+slr2035	syn00330	Arginine and proline metabolism	Amino acid metabolism
+sll0373	syn00330	Arginine and proline metabolism	Amino acid metabolism
+sll0461	syn00330	Arginine and proline metabolism	Amino acid metabolism
+sll0402	syn00330	Arginine and proline metabolism	Amino acid metabolism
+sll0902	syn00330	Arginine and proline metabolism	Amino acid metabolism
+slr0585	syn00330	Arginine and proline metabolism	Amino acid metabolism
+slr1133	syn00330	Arginine and proline metabolism	Amino acid metabolism
+sll1750	syn00330	Arginine and proline metabolism	Amino acid metabolism
+sll0420	syn00330	Arginine and proline metabolism	Amino acid metabolism
+slr1256	syn00330	Arginine and proline metabolism	Amino acid metabolism
+slr2079	syn00330	Arginine and proline metabolism	Amino acid metabolism
+slr0288	syn00330	Arginine and proline metabolism	Amino acid metabolism
+slr1756	syn00330	Arginine and proline metabolism	Amino acid metabolism
+slr0710	syn00330	Arginine and proline metabolism	Amino acid metabolism
+sll0573	syn00330	Arginine and proline metabolism	Amino acid metabolism
+sll1883	syn00330	Arginine and proline metabolism	Amino acid metabolism
+slr1898	syn00330	Arginine and proline metabolism	Amino acid metabolism
+sll0080	syn00330	Arginine and proline metabolism	Amino acid metabolism
+slr1022	syn00330	Arginine and proline metabolism	Amino acid metabolism
+sll0900	syn00340	Histidine metabolism	Amino acid metabolism
+slr1560	syn00340	Histidine metabolism	Amino acid metabolism
+slr0608	syn00340	Histidine metabolism	Amino acid metabolism
+slr0652	syn00340	Histidine metabolism	Amino acid metabolism
+slr0084	syn00340	Histidine metabolism	Amino acid metabolism
+sll1893	syn00340	Histidine metabolism	Amino acid metabolism
+slr0500	syn00340	Histidine metabolism	Amino acid metabolism
+sll1958	syn00340	Histidine metabolism	Amino acid metabolism
+slr0682	syn00340	Histidine metabolism	Amino acid metabolism
+slr1848	syn00340	Histidine metabolism	Amino acid metabolism
+slr0091	syn00340	Histidine metabolism	Amino acid metabolism
+slr1705	syn00340	Histidine metabolism	Amino acid metabolism
+slr0782	syn00340	Histidine metabolism	Amino acid metabolism
+slr0095	syn00340	Histidine metabolism	Amino acid metabolism
+sll0829	syn00340	Histidine metabolism	Amino acid metabolism
+sll0402	syn00350	Tyrosine metabolism	Amino acid metabolism
+sll1958	syn00350	Tyrosine metabolism	Amino acid metabolism
+slr0090	syn00350	Tyrosine metabolism	Amino acid metabolism
+slr0782	syn00350	Tyrosine metabolism	Amino acid metabolism
+sll0990	syn00350	Tyrosine metabolism	Amino acid metabolism
+slr0370	syn00350	Tyrosine metabolism	Amino acid metabolism
+slr0095	syn00350	Tyrosine metabolism	Amino acid metabolism
+sll0829	syn00350	Tyrosine metabolism	Amino acid metabolism
+slr0782	syn00360	Phenylalanine metabolism	Amino acid metabolism
+sll0402	syn00360	Phenylalanine metabolism	Amino acid metabolism
+sll1958	syn00360	Phenylalanine metabolism	Amino acid metabolism
+slr0090	syn00360	Phenylalanine metabolism	Amino acid metabolism
+sll1987	syn00360	Phenylalanine metabolism	Amino acid metabolism
+sll0828	syn00360	Phenylalanine metabolism	Amino acid metabolism
+slr2121	syn00380	Tryptophan metabolism	Amino acid metabolism
+slr1993	syn00380	Tryptophan metabolism	Amino acid metabolism
+slr0782	syn00380	Tryptophan metabolism	Amino acid metabolism
+slr0091	syn00380	Tryptophan metabolism	Amino acid metabolism
+sll0828	syn00380	Tryptophan metabolism	Amino acid metabolism
+sll1987	syn00380	Tryptophan metabolism	Amino acid metabolism
+sll0934	syn00400	Phenylalanine, tyrosine and tryptophan biosynthesis	Amino acid metabolism
+slr2130	syn00400	Phenylalanine, tyrosine and tryptophan biosynthesis	Amino acid metabolism
+sll1112	syn00400	Phenylalanine, tyrosine and tryptophan biosynthesis	Amino acid metabolism
+slr1559	syn00400	Phenylalanine, tyrosine and tryptophan biosynthesis	Amino acid metabolism
+sll1669	syn00400	Phenylalanine, tyrosine and tryptophan biosynthesis	Amino acid metabolism
+slr0444	syn00400	Phenylalanine, tyrosine and tryptophan biosynthesis	Amino acid metabolism
+sll1747	syn00400	Phenylalanine, tyrosine and tryptophan biosynthesis	Amino acid metabolism
+slr0738	syn00400	Phenylalanine, tyrosine and tryptophan biosynthesis	Amino acid metabolism
+slr0055	syn00400	Phenylalanine, tyrosine and tryptophan biosynthesis	Amino acid metabolism
+slr1867	syn00400	Phenylalanine, tyrosine and tryptophan biosynthesis	Amino acid metabolism
+sll0356	syn00400	Phenylalanine, tyrosine and tryptophan biosynthesis	Amino acid metabolism
+slr0546	syn00400	Phenylalanine, tyrosine and tryptophan biosynthesis	Amino acid metabolism
+slr0966	syn00400	Phenylalanine, tyrosine and tryptophan biosynthesis	Amino acid metabolism
+slr0543	syn00400	Phenylalanine, tyrosine and tryptophan biosynthesis	Amino acid metabolism
+sll0109	syn00400	Phenylalanine, tyrosine and tryptophan biosynthesis	Amino acid metabolism
+slr2081	syn00400	Phenylalanine, tyrosine and tryptophan biosynthesis	Amino acid metabolism
+sll1662	syn00400	Phenylalanine, tyrosine and tryptophan biosynthesis	Amino acid metabolism
+sll0402	syn00400	Phenylalanine, tyrosine and tryptophan biosynthesis	Amino acid metabolism
+sll1958	syn00400	Phenylalanine, tyrosine and tryptophan biosynthesis	Amino acid metabolism
+sll0892	syn00410	beta-Alanine metabolism	Metabolism of other amino acids
+sll1641	syn00410	beta-Alanine metabolism	Metabolism of other amino acids
+slr0091	syn00410	beta-Alanine metabolism	Metabolism of other amino acids
+sll1249	syn00410	beta-Alanine metabolism	Metabolism of other amino acids
+sll1641	syn00430	Taurine and hypotaurine metabolism	Metabolism of other amino acids
+slr1269	syn00430	Taurine and hypotaurine metabolism	Metabolism of other amino acids
+sll1682	syn00430	Taurine and hypotaurine metabolism	Metabolism of other amino acids
+slr2132	syn00430	Taurine and hypotaurine metabolism	Metabolism of other amino acids
+sll1299	syn00430	Taurine and hypotaurine metabolism	Metabolism of other amino acids
+sll1647		Phosphonate and phosphinate metabolism	Metabolism of other amino acids
+slr0212	syn00450	Selenocompound metabolism	Metabolism of other amino acids
+slr0077	syn00450	Selenocompound metabolism	Metabolism of other amino acids
+slr0600	syn00450	Selenocompound metabolism	Metabolism of other amino acids
+slr1165	syn00450	Selenocompound metabolism	Metabolism of other amino acids
+slr0649	syn00450	Selenocompound metabolism	Metabolism of other amino acids
+sll1538	syn00460	Cyanoamino acid metabolism	Metabolism of other amino acids
+slr1269	syn00460	Cyanoamino acid metabolism	Metabolism of other amino acids
+sll0422	syn00460	Cyanoamino acid metabolism	Metabolism of other amino acids
+sll0585	syn00460	Cyanoamino acid metabolism	Metabolism of other amino acids
+sll1931	syn00460	Cyanoamino acid metabolism	Metabolism of other amino acids
+slr1746	syn00471	D-Glutamine and D-glutamate metabolism	Metabolism of other amino acids
+sll2010	syn00471	D-Glutamine and D-glutamate metabolism	Metabolism of other amino acids
+slr2079	syn00471	D-Glutamine and D-glutamate metabolism	Metabolism of other amino acids
+slr1423	syn00471	D-Glutamine and D-glutamate metabolism	Metabolism of other amino acids
+slr0827	syn00473	D-Alanine metabolism	Metabolism of other amino acids
+slr1874	syn00473	D-Alanine metabolism	Metabolism of other amino acids
+slr1269	syn00480	Glutathione metabolism	Metabolism of other amino acids
+slr0697	syn00480	Glutathione metabolism	Metabolism of other amino acids
+slr1238	syn00480	Glutathione metabolism	Metabolism of other amino acids
+sll2001	syn00480	Glutathione metabolism	Metabolism of other amino acids
+sll1343	syn00480	Glutathione metabolism	Metabolism of other amino acids
+sll1147	syn00480	Glutathione metabolism	Metabolism of other amino acids
+sll1545	syn00480	Glutathione metabolism	Metabolism of other amino acids
+sll0067	syn00480	Glutathione metabolism	Metabolism of other amino acids
+sll1902	syn00480	Glutathione metabolism	Metabolism of other amino acids
+slr1289	syn00480	Glutathione metabolism	Metabolism of other amino acids
+sll0329	syn00480	Glutathione metabolism	Metabolism of other amino acids
+slr1843	syn00480	Glutathione metabolism	Metabolism of other amino acids
+slr1171	syn00480	Glutathione metabolism	Metabolism of other amino acids
+slr1992	syn00480	Glutathione metabolism	Metabolism of other amino acids
+sll0379	syn00540	Lipopolysaccharide biosynthesis	GlycanBiosynthesis and metabolism
+sll1508	syn00540	Lipopolysaccharide biosynthesis	GlycanBiosynthesis and metabolism
+slr0776	syn00540	Lipopolysaccharide biosynthesis	GlycanBiosynthesis and metabolism
+slr0015	syn00540	Lipopolysaccharide biosynthesis	GlycanBiosynthesis and metabolism
+slr1677	syn00540	Lipopolysaccharide biosynthesis	GlycanBiosynthesis and metabolism
+sll0083	syn00540	Lipopolysaccharide biosynthesis	GlycanBiosynthesis and metabolism
+slr0862	syn00540	Lipopolysaccharide biosynthesis	GlycanBiosynthesis and metabolism
+slr0017	syn00550	Peptidoglycan biosynthesis	GlycanBiosynthesis and metabolism
+slr1424	syn00550	Peptidoglycan biosynthesis	GlycanBiosynthesis and metabolism
+slr1423	syn00550	Peptidoglycan biosynthesis	GlycanBiosynthesis and metabolism
+sll2010	syn00550	Peptidoglycan biosynthesis	GlycanBiosynthesis and metabolism
+slr0528	syn00550	Peptidoglycan biosynthesis	GlycanBiosynthesis and metabolism
+slr1874	syn00550	Peptidoglycan biosynthesis	GlycanBiosynthesis and metabolism
+slr1351	syn00550	Peptidoglycan biosynthesis	GlycanBiosynthesis and metabolism
+sll0210	syn00550	Peptidoglycan biosynthesis	GlycanBiosynthesis and metabolism
+sll0657	syn00550	Peptidoglycan biosynthesis	GlycanBiosynthesis and metabolism
+slr1656	syn00550	Peptidoglycan biosynthesis	GlycanBiosynthesis and metabolism
+slr0488	syn00550	Peptidoglycan biosynthesis	GlycanBiosynthesis and metabolism
+sll1833	syn00550	Peptidoglycan biosynthesis	GlycanBiosynthesis and metabolism
+slr0646	syn00550	Peptidoglycan biosynthesis	GlycanBiosynthesis and metabolism
+slr0804	syn00550	Peptidoglycan biosynthesis	GlycanBiosynthesis and metabolism
+sll0034	syn00550	Peptidoglycan biosynthesis	GlycanBiosynthesis and metabolism
+slr0323	syn00511	Other glycan degradation	GlycanBiosynthesis and metabolism
+sll1775	syn00511	Other glycan degradation	GlycanBiosynthesis and metabolism
+slr0118	syn00730	Thiamine metabolism	Metabolism of cofactors and vitamins
+slr0387	syn00730	Thiamine metabolism	Metabolism of cofactors and vitamins
+sll0704	syn00730	Thiamine metabolism	Metabolism of cofactors and vitamins
+slr0077	syn00730	Thiamine metabolism	Metabolism of cofactors and vitamins
+slr0633	syn00730	Thiamine metabolism	Metabolism of cofactors and vitamins
+sll1945	syn00730	Thiamine metabolism	Metabolism of cofactors and vitamins
+sll0635	syn00730	Thiamine metabolism	Metabolism of cofactors and vitamins
+slr1787	syn00730	Thiamine metabolism	Metabolism of cofactors and vitamins
+sll1894	syn00740	Riboflavin metabolism	Metabolism of cofactors and vitamins
+slr0066	syn00740	Riboflavin metabolism	Metabolism of cofactors and vitamins
+sll1282	syn00740	Riboflavin metabolism	Metabolism of cofactors and vitamins
+sll0300	syn00740	Riboflavin metabolism	Metabolism of cofactors and vitamins
+slr1882	syn00740	Riboflavin metabolism	Metabolism of cofactors and vitamins
+sll1440	syn00750	Vitamin B6 metabolism	Metabolism of cofactors and vitamins
+sll0660	syn00750	Vitamin B6 metabolism	Metabolism of cofactors and vitamins
+slr1779	syn00750	Vitamin B6 metabolism	Metabolism of cofactors and vitamins
+sll1172	syn00750	Vitamin B6 metabolism	Metabolism of cofactors and vitamins
+sll1688	syn00750	Vitamin B6 metabolism	Metabolism of cofactors and vitamins
+sll0631	syn00760	Nicotinate and nicotinamide metabolism	Metabolism of cofactors and vitamins
+sll0622	syn00760	Nicotinate and nicotinamide metabolism	Metabolism of cofactors and vitamins
+slr0936	syn00760	Nicotinate and nicotinamide metabolism	Metabolism of cofactors and vitamins
+sll1108	syn00760	Nicotinate and nicotinamide metabolism	Metabolism of cofactors and vitamins
+sll1459	syn00760	Nicotinate and nicotinamide metabolism	Metabolism of cofactors and vitamins
+slr0787	syn00760	Nicotinate and nicotinamide metabolism	Metabolism of cofactors and vitamins
+sll1916	syn00760	Nicotinate and nicotinamide metabolism	Metabolism of cofactors and vitamins
+slr1691	syn00760	Nicotinate and nicotinamide metabolism	Metabolism of cofactors and vitamins
+slr0788	syn00760	Nicotinate and nicotinamide metabolism	Metabolism of cofactors and vitamins
+sll1415	syn00760	Nicotinate and nicotinamide metabolism	Metabolism of cofactors and vitamins
+slr0400	syn00760	Nicotinate and nicotinamide metabolism	Metabolism of cofactors and vitamins
+slr1239	syn00760	Nicotinate and nicotinamide metabolism	Metabolism of cofactors and vitamins
+slr1434	syn00760	Nicotinate and nicotinamide metabolism	Metabolism of cofactors and vitamins
+sll1981	syn00770	Pantothenate and CoA biosynthesis	Metabolism of cofactors and vitamins
+slr2088	syn00770	Pantothenate and CoA biosynthesis	Metabolism of cofactors and vitamins
+sll0065	syn00770	Pantothenate and CoA biosynthesis	Metabolism of cofactors and vitamins
+sll1363	syn00770	Pantothenate and CoA biosynthesis	Metabolism of cofactors and vitamins
+slr0452	syn00770	Pantothenate and CoA biosynthesis	Metabolism of cofactors and vitamins
+slr0526	syn00770	Pantothenate and CoA biosynthesis	Metabolism of cofactors and vitamins
+sll1249	syn00770	Pantothenate and CoA biosynthesis	Metabolism of cofactors and vitamins
+slr0812	syn00770	Pantothenate and CoA biosynthesis	Metabolism of cofactors and vitamins
+sll0250	syn00770	Pantothenate and CoA biosynthesis	Metabolism of cofactors and vitamins
+slr0847	syn00770	Pantothenate and CoA biosynthesis	Metabolism of cofactors and vitamins
+slr0553	syn00770	Pantothenate and CoA biosynthesis	Metabolism of cofactors and vitamins
+slr0495	syn00770	Pantothenate and CoA biosynthesis	Metabolism of cofactors and vitamins
+slr0032	syn00770	Pantothenate and CoA biosynthesis	Metabolism of cofactors and vitamins
+sll0892	syn00770	Pantothenate and CoA biosynthesis	Metabolism of cofactors and vitamins
+sll1069	syn00780	Biotin metabolism	Metabolism of cofactors and vitamins
+slr1332	syn00780	Biotin metabolism	Metabolism of cofactors and vitamins
+slr0886	syn00780	Biotin metabolism	Metabolism of cofactors and vitamins
+slr1994	syn00780	Biotin metabolism	Metabolism of cofactors and vitamins
+sll5079	syn00780	Biotin metabolism	Metabolism of cofactors and vitamins
+sll1605	syn00780	Biotin metabolism	Metabolism of cofactors and vitamins
+slr1051	syn00780	Biotin metabolism	Metabolism of cofactors and vitamins
+slr0917	syn00780	Biotin metabolism	Metabolism of cofactors and vitamins
+slr0523	syn00780	Biotin metabolism	Metabolism of cofactors and vitamins
+slr1364	syn00780	Biotin metabolism	Metabolism of cofactors and vitamins
+sll1655	syn00780	Biotin metabolism	Metabolism of cofactors and vitamins
+sll2008	syn00780	Biotin metabolism	Metabolism of cofactors and vitamins
+sll2009	syn00780	Biotin metabolism	Metabolism of cofactors and vitamins
+slr1598	syn00785	Lipoic acid metabolism	Metabolism of cofactors and vitamins
+sll0868	syn00785	Lipoic acid metabolism	Metabolism of cofactors and vitamins
+slr0994	syn00785	Lipoic acid metabolism	Metabolism of cofactors and vitamins
+sll0809	syn00785	Lipoic acid metabolism	Metabolism of cofactors and vitamins
+slr0426	syn00790	Folate biosynthesis	Metabolism of cofactors and vitamins
+slr1626	syn00790	Folate biosynthesis	Metabolism of cofactors and vitamins
+slr1093	syn00790	Folate biosynthesis	Metabolism of cofactors and vitamins
+slr2026	syn00790	Folate biosynthesis	Metabolism of cofactors and vitamins
+sll1612	syn00790	Folate biosynthesis	Metabolism of cofactors and vitamins
+slr0078	syn00790	Folate biosynthesis	Metabolism of cofactors and vitamins
+slr0527	syn00790	Folate biosynthesis	Metabolism of cofactors and vitamins
+slr0711	syn00790	Folate biosynthesis	Metabolism of cofactors and vitamins
+slr0901	syn00790	Folate biosynthesis	Metabolism of cofactors and vitamins
+slr0902	syn00790	Folate biosynthesis	Metabolism of cofactors and vitamins
+slr0903	syn00790	Folate biosynthesis	Metabolism of cofactors and vitamins
+ssr1527	syn00790	Folate biosynthesis	Metabolism of cofactors and vitamins
+slr0887	syn00790	Folate biosynthesis	Metabolism of cofactors and vitamins
+sll0753	syn00670	One carbon pool by folate	Metabolism of cofactors and vitamins
+sll1931	syn00670	One carbon pool by folate	Metabolism of cofactors and vitamins
+slr0477	syn00670	One carbon pool by folate	Metabolism of cofactors and vitamins
+slr0861	syn00670	One carbon pool by folate	Metabolism of cofactors and vitamins
+slr0597	syn00670	One carbon pool by folate	Metabolism of cofactors and vitamins
+slr0070	syn00670	One carbon pool by folate	Metabolism of cofactors and vitamins
+sll0171	syn00670	One carbon pool by folate	Metabolism of cofactors and vitamins
+slr0212	syn00670	One carbon pool by folate	Metabolism of cofactors and vitamins
+sll1635	syn00670	One carbon pool by folate	Metabolism of cofactors and vitamins
+sll0070	syn00670	One carbon pool by folate	Metabolism of cofactors and vitamins
+sll1643	syn00670	One carbon pool by folate	Metabolism of cofactors and vitamins
+sll0179	syn00860	Porphyrin and chlorophyll metabolism	Metabolism of cofactors and vitamins
+slr1808	syn00860	Porphyrin and chlorophyll metabolism	Metabolism of cofactors and vitamins
+sll0017	syn00860	Porphyrin and chlorophyll metabolism	Metabolism of cofactors and vitamins
+sll1994	syn00860	Porphyrin and chlorophyll metabolism	Metabolism of cofactors and vitamins
+slr1887	syn00860	Porphyrin and chlorophyll metabolism	Metabolism of cofactors and vitamins
+sll0166	syn00860	Porphyrin and chlorophyll metabolism	Metabolism of cofactors and vitamins
+sll0378	syn00860	Porphyrin and chlorophyll metabolism	Metabolism of cofactors and vitamins
+slr0536	syn00860	Porphyrin and chlorophyll metabolism	Metabolism of cofactors and vitamins
+sll1185	syn00860	Porphyrin and chlorophyll metabolism	Metabolism of cofactors and vitamins
+sll1876	syn00860	Porphyrin and chlorophyll metabolism	Metabolism of cofactors and vitamins
+sll1917	syn00860	Porphyrin and chlorophyll metabolism	Metabolism of cofactors and vitamins
+slr0839	syn00860	Porphyrin and chlorophyll metabolism	Metabolism of cofactors and vitamins
+sll1899	syn00860	Porphyrin and chlorophyll metabolism	Metabolism of cofactors and vitamins
+sll1898	syn00860	Porphyrin and chlorophyll metabolism	Metabolism of cofactors and vitamins
+sll0037	syn00860	Porphyrin and chlorophyll metabolism	Metabolism of cofactors and vitamins
+slr1879	syn00860	Porphyrin and chlorophyll metabolism	Metabolism of cofactors and vitamins
+slr0969	syn00860	Porphyrin and chlorophyll metabolism	Metabolism of cofactors and vitamins
+slr0239	syn00860	Porphyrin and chlorophyll metabolism	Metabolism of cofactors and vitamins
+slr0252	syn00860	Porphyrin and chlorophyll metabolism	Metabolism of cofactors and vitamins
+slr1538	syn00860	Porphyrin and chlorophyll metabolism	Metabolism of cofactors and vitamins
+sll0099	syn00860	Porphyrin and chlorophyll metabolism	Metabolism of cofactors and vitamins
+slr1368	syn00860	Porphyrin and chlorophyll metabolism	Metabolism of cofactors and vitamins
+sll0794	syn00860	Porphyrin and chlorophyll metabolism	Metabolism of cofactors and vitamins
+sll0916	syn00860	Porphyrin and chlorophyll metabolism	Metabolism of cofactors and vitamins
+slr1467	syn00860	Porphyrin and chlorophyll metabolism	Metabolism of cofactors and vitamins
+sll1501	syn00860	Porphyrin and chlorophyll metabolism	Metabolism of cofactors and vitamins
+slr1211	syn00860	Porphyrin and chlorophyll metabolism	Metabolism of cofactors and vitamins
+sll1890	syn00860	Porphyrin and chlorophyll metabolism	Metabolism of cofactors and vitamins
+slr0502	syn00860	Porphyrin and chlorophyll metabolism	Metabolism of cofactors and vitamins
+slr0260	syn00860	Porphyrin and chlorophyll metabolism	Metabolism of cofactors and vitamins
+slr0618	syn00860	Porphyrin and chlorophyll metabolism	Metabolism of cofactors and vitamins
+slr1925	syn00860	Porphyrin and chlorophyll metabolism	Metabolism of cofactors and vitamins
+slr0216	syn00860	Porphyrin and chlorophyll metabolism	Metabolism of cofactors and vitamins
+slr0636	syn00860	Porphyrin and chlorophyll metabolism	Metabolism of cofactors and vitamins
+slr1055	syn00860	Porphyrin and chlorophyll metabolism	Metabolism of cofactors and vitamins
+slr1777	syn00860	Porphyrin and chlorophyll metabolism	Metabolism of cofactors and vitamins
+slr1030	syn00860	Porphyrin and chlorophyll metabolism	Metabolism of cofactors and vitamins
+slr0525	syn00860	Porphyrin and chlorophyll metabolism	Metabolism of cofactors and vitamins
+slr0905	syn00860	Porphyrin and chlorophyll metabolism	Metabolism of cofactors and vitamins
+sll1874	syn00860	Porphyrin and chlorophyll metabolism	Metabolism of cofactors and vitamins
+sll1214	syn00860	Porphyrin and chlorophyll metabolism	Metabolism of cofactors and vitamins
+slr0506	syn00860	Porphyrin and chlorophyll metabolism	Metabolism of cofactors and vitamins
+slr0749	syn00860	Porphyrin and chlorophyll metabolism	Metabolism of cofactors and vitamins
+slr0750	syn00860	Porphyrin and chlorophyll metabolism	Metabolism of cofactors and vitamins
+slr0772	syn00860	Porphyrin and chlorophyll metabolism	Metabolism of cofactors and vitamins
+slr0056	syn00860	Porphyrin and chlorophyll metabolism	Metabolism of cofactors and vitamins
+sll1091	syn00860	Porphyrin and chlorophyll metabolism	Metabolism of cofactors and vitamins
+sll1184	syn00860	Porphyrin and chlorophyll metabolism	Metabolism of cofactors and vitamins
+sll1875	syn00860	Porphyrin and chlorophyll metabolism	Metabolism of cofactors and vitamins
+slr1784	syn00860	Porphyrin and chlorophyll metabolism	Metabolism of cofactors and vitamins
+slr0116	syn00860	Porphyrin and chlorophyll metabolism	Metabolism of cofactors and vitamins
+slr0926	syn00130	Ubiquinone and other terpenoid-quinone biosynthesis	Metabolism of cofactors and vitamins
+sll0936	syn00130	Ubiquinone and other terpenoid-quinone biosynthesis	Metabolism of cofactors and vitamins
+slr1099	syn00130	Ubiquinone and other terpenoid-quinone biosynthesis	Metabolism of cofactors and vitamins
+slr1300	syn00130	Ubiquinone and other terpenoid-quinone biosynthesis	Metabolism of cofactors and vitamins
+sll1653	syn00130	Ubiquinone and other terpenoid-quinone biosynthesis	Metabolism of cofactors and vitamins
+slr0817	syn00130	Ubiquinone and other terpenoid-quinone biosynthesis	Metabolism of cofactors and vitamins
+sll0603	syn00130	Ubiquinone and other terpenoid-quinone biosynthesis	Metabolism of cofactors and vitamins
+slr1916	syn00130	Ubiquinone and other terpenoid-quinone biosynthesis	Metabolism of cofactors and vitamins
+sll0409	syn00130	Ubiquinone and other terpenoid-quinone biosynthesis	Metabolism of cofactors and vitamins
+slr0492	syn00130	Ubiquinone and other terpenoid-quinone biosynthesis	Metabolism of cofactors and vitamins
+sll1127	syn00130	Ubiquinone and other terpenoid-quinone biosynthesis	Metabolism of cofactors and vitamins
+slr0204	syn00130	Ubiquinone and other terpenoid-quinone biosynthesis	Metabolism of cofactors and vitamins
+slr1518	syn00130	Ubiquinone and other terpenoid-quinone biosynthesis	Metabolism of cofactors and vitamins
+slr0090	syn00130	Ubiquinone and other terpenoid-quinone biosynthesis	Metabolism of cofactors and vitamins
+slr1736	syn00130	Ubiquinone and other terpenoid-quinone biosynthesis	Metabolism of cofactors and vitamins
+slr1737	syn00130	Ubiquinone and other terpenoid-quinone biosynthesis	Metabolism of cofactors and vitamins
+slr0089	syn00130	Ubiquinone and other terpenoid-quinone biosynthesis	Metabolism of cofactors and vitamins
+sll1945	syn00900	Terpenoid backbone biosynthesis	Metabolism of terpenoids and polyketides
+sll0019	syn00900	Terpenoid backbone biosynthesis	Metabolism of terpenoids and polyketides
+slr0951	syn00900	Terpenoid backbone biosynthesis	Metabolism of terpenoids and polyketides
+sll0711	syn00900	Terpenoid backbone biosynthesis	Metabolism of terpenoids and polyketides
+slr1542	syn00900	Terpenoid backbone biosynthesis	Metabolism of terpenoids and polyketides
+slr2136	syn00900	Terpenoid backbone biosynthesis	Metabolism of terpenoids and polyketides
+slr0348	syn00900	Terpenoid backbone biosynthesis	Metabolism of terpenoids and polyketides
+slr1993	syn00900	Terpenoid backbone biosynthesis	Metabolism of terpenoids and polyketides
+sll1556	syn00900	Terpenoid backbone biosynthesis	Metabolism of terpenoids and polyketides
+slr0739	syn00900	Terpenoid backbone biosynthesis	Metabolism of terpenoids and polyketides
+slr0611	syn00900	Terpenoid backbone biosynthesis	Metabolism of terpenoids and polyketides
+sll0506	syn00900	Terpenoid backbone biosynthesis	Metabolism of terpenoids and polyketides
+sll1091	syn00900	Terpenoid backbone biosynthesis	Metabolism of terpenoids and polyketides
+sll0513			Metabolism of terpenoids and polyketides
+slr2089			Metabolism of terpenoids and polyketides
+slr1255	syn00906	Carotenoid biosynthesis	Metabolism of terpenoids and polyketides
+slr1254	syn00906	Carotenoid biosynthesis	Metabolism of terpenoids and polyketides
+slr0940	syn00906	Carotenoid biosynthesis	Metabolism of terpenoids and polyketides
+sll0033	syn00906	Carotenoid biosynthesis	Metabolism of terpenoids and polyketides
+sll0147	syn00906	Carotenoid biosynthesis	Metabolism of terpenoids and polyketides
+sll0659	syn00906	Carotenoid biosynthesis	Metabolism of terpenoids and polyketides
+slr0088	syn00906	Carotenoid biosynthesis	Metabolism of terpenoids and polyketides
+sll1468	syn00906	Carotenoid biosynthesis	Metabolism of terpenoids and polyketides
+sll0254	syn00906	Carotenoid biosynthesis	Metabolism of terpenoids and polyketides
+slr0091	syn00903	Limonene and pinene degradation	Metabolism of terpenoids and polyketides
+sll1869	syn00903	Limonene and pinene degradation	Metabolism of terpenoids and polyketides
+slr0574	syn00903	Limonene and pinene degradation	Metabolism of terpenoids and polyketides
+sll1070			Metabolism of terpenoids and polyketides
+sll0728		Tetracycline biosynthesis	Metabolism of terpenoids and polyketides
+slr0435		Tetracycline biosynthesis	Metabolism of terpenoids and polyketides
+sll0053		Tetracycline biosynthesis	Metabolism of terpenoids and polyketides
+sll0336		Tetracycline biosynthesis	Metabolism of terpenoids and polyketides
+sll0207	syn00523	Polyketide sugar unit biosynthesis	Metabolism of terpenoids and polyketides
+slr0809	syn00523	Polyketide sugar unit biosynthesis	Metabolism of terpenoids and polyketides
+slr0836	syn00523	Polyketide sugar unit biosynthesis	Metabolism of terpenoids and polyketides
+slr0985	syn00523	Polyketide sugar unit biosynthesis	Metabolism of terpenoids and polyketides
+slr1933	syn00523	Polyketide sugar unit biosynthesis	Metabolism of terpenoids and polyketides
+sll1395	syn00523	Polyketide sugar unit biosynthesis	Metabolism of terpenoids and polyketides
+slr0817		Biosynthesis of siderophore group nonribosomal peptides	Metabolism of terpenoids and polyketides
+slr0809		Biosynthesis of vancomycin group antibiotics	Metabolism of terpenoids and polyketides
+slr0836		Biosynthesis of vancomycin group antibiotics	Metabolism of terpenoids and polyketides
+slr0121		Penicillin and cephalosporin biosynthesis	Biosynthesis of other secondary metabolites
+slr0319		Penicillin and cephalosporin biosynthesis	Biosynthesis of other secondary metabolites
+sll0593	syn00521	Streptomycin biosynthesis	Biosynthesis of other secondary metabolites
+slr0329	syn00521	Streptomycin biosynthesis	Biosynthesis of other secondary metabolites
+sll0726	syn00521	Streptomycin biosynthesis	Biosynthesis of other secondary metabolites
+sll1383	syn00521	Streptomycin biosynthesis	Biosynthesis of other secondary metabolites
+sll1329	syn00521	Streptomycin biosynthesis	Biosynthesis of other secondary metabolites
+sll0207	syn00521	Streptomycin biosynthesis	Biosynthesis of other secondary metabolites
+slr0809	syn00521	Streptomycin biosynthesis	Biosynthesis of other secondary metabolites
+slr0836	syn00521	Streptomycin biosynthesis	Biosynthesis of other secondary metabolites
+slr0985	syn00521	Streptomycin biosynthesis	Biosynthesis of other secondary metabolites
+slr1933	syn00521	Streptomycin biosynthesis	Biosynthesis of other secondary metabolites
+sll1395	syn00521	Streptomycin biosynthesis	Biosynthesis of other secondary metabolites
+sll0593		Butirosin and neomycin biosynthesis	Biosynthesis of other secondary metabolites
+slr0329		Butirosin and neomycin biosynthesis	Biosynthesis of other secondary metabolites
+sll0402	syn00401	Novobiocin biosynthesis	Biosynthesis of other secondary metabolites
+sll1958	syn00401	Novobiocin biosynthesis	Biosynthesis of other secondary metabolites
+slr0619	syn00362	Benzoate degradation	Xenobiotics biodegradation and metabolism
+slr1993	syn00362	Benzoate degradation	Xenobiotics biodegradation and metabolism
+sll0828	syn00627	Aminobenzoate degradation	Xenobiotics biodegradation and metabolism
+sll1869	syn00627	Aminobenzoate degradation	Xenobiotics biodegradation and metabolism
+slr0574	syn00627	Aminobenzoate degradation	Xenobiotics biodegradation and metabolism
+slr0619	syn00627	Aminobenzoate degradation	Xenobiotics biodegradation and metabolism
+sll1298			Xenobiotics biodegradation and metabolism
+sll0990	syn00625	Chloroalkane and chloroalkene degradation	Xenobiotics biodegradation and metabolism
+slr0091	syn00625	Chloroalkane and chloroalkene degradation	Xenobiotics biodegradation and metabolism
+sll1298	syn00361	Chlorocyclohexane and chlorobenzene degradation	Xenobiotics biodegradation and metabolism
+sll1298			Xenobiotics biodegradation and metabolism
+sll0828	syn00643	Styrene degradation	Xenobiotics biodegradation and metabolism
+sll0784	syn00643	Styrene degradation	Xenobiotics biodegradation and metabolism
+sll1750		Atrazine degradation	Xenobiotics biodegradation and metabolism
+sll0420		Atrazine degradation	Xenobiotics biodegradation and metabolism
+slr1256		Atrazine degradation	Xenobiotics biodegradation and metabolism
+slr0942			Xenobiotics biodegradation and metabolism
+sll1869	syn00363	Bisphenol degradation	Xenobiotics biodegradation and metabolism
+slr0574	syn00363	Bisphenol degradation	Xenobiotics biodegradation and metabolism
+sll0990			Xenobiotics biodegradation and metabolism
+sll1869	syn00624	Polycyclic aromatic hydrocarbon degradation	Xenobiotics biodegradation and metabolism
+slr0574	syn00624	Polycyclic aromatic hydrocarbon degradation	Xenobiotics biodegradation and metabolism
+slr0095	syn00624	Polycyclic aromatic hydrocarbon degradation	Xenobiotics biodegradation and metabolism
+sll0829	syn00624	Polycyclic aromatic hydrocarbon degradation	Xenobiotics biodegradation and metabolism
+sll1818	syn03020	RNA polymerase	Transcription
+sll1787	syn03020	RNA polymerase	Transcription
+sll1789	syn03020	RNA polymerase	Transcription
+slr1265	syn03020	RNA polymerase	Transcription
+ssl2982	syn03020	RNA polymerase	Transcription
+slr1356	syn03010	Ribosome	Translation
+slr1984	syn03010	Ribosome	Translation
+sll1260	syn03010	Ribosome	Translation
+sll1804	syn03010	Ribosome	Translation
+slr0469	syn03010	Ribosome	Translation
+sll1812	syn03010	Ribosome	Translation
+sll1767	syn03010	Ribosome	Translation
+sll1097	syn03010	Ribosome	Translation
+sll1809	syn03010	Ribosome	Translation
+sll1822	syn03010	Ribosome	Translation
+sll1101	syn03010	Ribosome	Translation
+sll1817	syn03010	Ribosome	Translation
+sll1096	syn03010	Ribosome	Translation
+sll1816	syn03010	Ribosome	Translation
+slr0628	syn03010	Ribosome	Translation
+ssl1784	syn03010	Ribosome	Translation
+ssr0482	syn03010	Ribosome	Translation
+ssl3437	syn03010	Ribosome	Translation
+ssr1399	syn03010	Ribosome	Translation
+ssl3432	syn03010	Ribosome	Translation
+ssl2233	syn03010	Ribosome	Translation
+ssl0601	syn03010	Ribosome	Translation
+sll1744	syn03010	Ribosome	Translation
+sll1802	syn03010	Ribosome	Translation
+sll1799	syn03010	Ribosome	Translation
+sll1800	syn03010	Ribosome	Translation
+sll1808	syn03010	Ribosome	Translation
+sll1810	syn03010	Ribosome	Translation
+sll1746	syn03010	Ribosome	Translation
+sll1244	syn03010	Ribosome	Translation
+sll1745	syn03010	Ribosome	Translation
+sll1743	syn03010	Ribosome	Translation
+sll1821	syn03010	Ribosome	Translation
+sll1806	syn03010	Ribosome	Translation
+sll1813	syn03010	Ribosome	Translation
+sll1805	syn03010	Ribosome	Translation
+sll1819	syn03010	Ribosome	Translation
+sll1811	syn03010	Ribosome	Translation
+sll1740	syn03010	Ribosome	Translation
+sll0767	syn03010	Ribosome	Translation
+slr1678	syn03010	Ribosome	Translation
+sll1803	syn03010	Ribosome	Translation
+sll1801	syn03010	Ribosome	Translation
+sll1807	syn03010	Ribosome	Translation
+sll1824	syn03010	Ribosome	Translation
+ssr2799	syn03010	Ribosome	Translation
+ssr1604	syn03010	Ribosome	Translation
+ssl3436	syn03010	Ribosome	Translation
+ssl3445	syn03010	Ribosome	Translation
+ssr1736	syn03010	Ribosome	Translation
+ssr1398	syn03010	Ribosome	Translation
+smr0011	syn03010	Ribosome	Translation
+ssl1426	syn03010	Ribosome	Translation
+sml0006	syn03010	Ribosome	Translation
+ST6803r	syn03010	Ribosome	Translation
+ST6803r	syn03010	Ribosome	Translation
+ST6803r	syn03010	Ribosome	Translation
+ST6803r	syn03010	Ribosome	Translation
+ST6803r	syn03010	Ribosome	Translation
+ST6803r	syn03010	Ribosome	Translation
+ST6803t	syn00970	Aminoacyl-tRNA biosynthesis	Translation
+ST6803t	syn00970	Aminoacyl-tRNA biosynthesis	Translation
+ST6803t	syn00970	Aminoacyl-tRNA biosynthesis	Translation
+ST6803t	syn00970	Aminoacyl-tRNA biosynthesis	Translation
+ST6803t	syn00970	Aminoacyl-tRNA biosynthesis	Translation
+ST6803t	syn00970	Aminoacyl-tRNA biosynthesis	Translation
+ST6803t	syn00970	Aminoacyl-tRNA biosynthesis	Translation
+ST6803t	syn00970	Aminoacyl-tRNA biosynthesis	Translation
+ST6803t	syn00970	Aminoacyl-tRNA biosynthesis	Translation
+ST6803t	syn00970	Aminoacyl-tRNA biosynthesis	Translation
+ST6803t	syn00970	Aminoacyl-tRNA biosynthesis	Translation
+ST6803t	syn00970	Aminoacyl-tRNA biosynthesis	Translation
+ST6803t	syn00970	Aminoacyl-tRNA biosynthesis	Translation
+ST6803t	syn00970	Aminoacyl-tRNA biosynthesis	Translation
+ST6803t	syn00970	Aminoacyl-tRNA biosynthesis	Translation
+ST6803t	syn00970	Aminoacyl-tRNA biosynthesis	Translation
+ST6803t	syn00970	Aminoacyl-tRNA biosynthesis	Translation
+ST6803t	syn00970	Aminoacyl-tRNA biosynthesis	Translation
+ST6803t	syn00970	Aminoacyl-tRNA biosynthesis	Translation
+ST6803t	syn00970	Aminoacyl-tRNA biosynthesis	Translation
+ST6803t	syn00970	Aminoacyl-tRNA biosynthesis	Translation
+ST6803t	syn00970	Aminoacyl-tRNA biosynthesis	Translation
+ST6803t	syn00970	Aminoacyl-tRNA biosynthesis	Translation
+ST6803t	syn00970	Aminoacyl-tRNA biosynthesis	Translation
+ST6803t	syn00970	Aminoacyl-tRNA biosynthesis	Translation
+ST6803t	syn00970	Aminoacyl-tRNA biosynthesis	Translation
+ST6803t	syn00970	Aminoacyl-tRNA biosynthesis	Translation
+ST6803t	syn00970	Aminoacyl-tRNA biosynthesis	Translation
+ST6803t	syn00970	Aminoacyl-tRNA biosynthesis	Translation
+ST6803t	syn00970	Aminoacyl-tRNA biosynthesis	Translation
+ST6803t	syn00970	Aminoacyl-tRNA biosynthesis	Translation
+ST6803t	syn00970	Aminoacyl-tRNA biosynthesis	Translation
+ST6803t	syn00970	Aminoacyl-tRNA biosynthesis	Translation
+ST6803t	syn00970	Aminoacyl-tRNA biosynthesis	Translation
+ST6803t	syn00970	Aminoacyl-tRNA biosynthesis	Translation
+ST6803t	syn00970	Aminoacyl-tRNA biosynthesis	Translation
+ST6803t	syn00970	Aminoacyl-tRNA biosynthesis	Translation
+ST6803t	syn00970	Aminoacyl-tRNA biosynthesis	Translation
+ST6803t	syn00970	Aminoacyl-tRNA biosynthesis	Translation
+ST6803t	syn00970	Aminoacyl-tRNA biosynthesis	Translation
+ST6803t	syn00970	Aminoacyl-tRNA biosynthesis	Translation
+sll0179	syn00970	Aminoacyl-tRNA biosynthesis	Translation
+slr0877	syn00970	Aminoacyl-tRNA biosynthesis	Translation
+sll1435	syn00970	Aminoacyl-tRNA biosynthesis	Translation
+slr0033	syn00970	Aminoacyl-tRNA biosynthesis	Translation
+sll0362	syn00970	Aminoacyl-tRNA biosynthesis	Translation
+slr1720	syn00970	Aminoacyl-tRNA biosynthesis	Translation
+sll0495	syn00970	Aminoacyl-tRNA biosynthesis	Translation
+slr0638	syn00970	Aminoacyl-tRNA biosynthesis	Translation
+slr0220	syn00970	Aminoacyl-tRNA biosynthesis	Translation
+sll0078	syn00970	Aminoacyl-tRNA biosynthesis	Translation
+slr1703	syn00970	Aminoacyl-tRNA biosynthesis	Translation
+slr0958	syn00970	Aminoacyl-tRNA biosynthesis	Translation
+slr0649	syn00970	Aminoacyl-tRNA biosynthesis	Translation
+slr0070	syn00970	Aminoacyl-tRNA biosynthesis	Translation
+slr0557	syn00970	Aminoacyl-tRNA biosynthesis	Translation
+sll1074	syn00970	Aminoacyl-tRNA biosynthesis	Translation
+sll1362	syn00970	Aminoacyl-tRNA biosynthesis	Translation
+slr1550	syn00970	Aminoacyl-tRNA biosynthesis	Translation
+sll0502	syn00970	Aminoacyl-tRNA biosynthesis	Translation
+sll1425	syn00970	Aminoacyl-tRNA biosynthesis	Translation
+slr0357	syn00970	Aminoacyl-tRNA biosynthesis	Translation
+sll0454	syn00970	Aminoacyl-tRNA biosynthesis	Translation
+sll1553	syn00970	Aminoacyl-tRNA biosynthesis	Translation
+slr1031	syn00970	Aminoacyl-tRNA biosynthesis	Translation
+ssr1720	syn00970	Aminoacyl-tRNA biosynthesis	Translation
+slr1884	syn00970	Aminoacyl-tRNA biosynthesis	Translation
+sll1814	syn03060	Protein export	Folding, sorting and degradation
+ssl3335	syn03060	Protein export	Folding, sorting and degradation
+ssr3307	syn03060	Protein export	Folding, sorting and degradation
+slr0774	syn03060	Protein export	Folding, sorting and degradation
+slr0775	syn03060	Protein export	Folding, sorting and degradation
+slr1471	syn03060	Protein export	Folding, sorting and degradation
+sll0616	syn03060	Protein export	Folding, sorting and degradation
+slr1531	syn03060	Protein export	Folding, sorting and degradation
+slr2102	syn03060	Protein export	Folding, sorting and degradation
+slr1046	syn03060	Protein export	Folding, sorting and degradation
+ssl2823	syn03060	Protein export	Folding, sorting and degradation
+sll0194	syn03060	Protein export	Folding, sorting and degradation
+sll0716	syn03060	Protein export	Folding, sorting and degradation
+slr1377	syn03060	Protein export	Folding, sorting and degradation
+slr1366	syn03060	Protein export	Folding, sorting and degradation
+slr0387	syn04122	Sulfur relay system	Folding, sorting and degradation
+sll0704	syn04122	Sulfur relay system	Folding, sorting and degradation
+sll1536	syn04122	Sulfur relay system	Folding, sorting and degradation
+sll0844	syn04122	Sulfur relay system	Folding, sorting and degradation
+slr0903	syn04122	Sulfur relay system	Folding, sorting and degradation
+slr0901	syn04122	Sulfur relay system	Folding, sorting and degradation
+ssr1527	syn04122	Sulfur relay system	Folding, sorting and degradation
+slr0902	syn04122	Sulfur relay system	Folding, sorting and degradation
+ssr0102	syn04122	Sulfur relay system	Folding, sorting and degradation
+slr1129	syn03018	RNA degradation	Folding, sorting and degradation
+slr0752	syn03018	RNA degradation	Folding, sorting and degradation
+sll1043	syn03018	RNA degradation	Folding, sorting and degradation
+sll1910	syn03018	RNA degradation	Folding, sorting and degradation
+slr0083	syn03018	RNA degradation	Folding, sorting and degradation
+slr1536	syn03018	RNA degradation	Folding, sorting and degradation
+slr0551	syn03018	RNA degradation	Folding, sorting and degradation
+sll0170	syn03018	RNA degradation	Folding, sorting and degradation
+sll1932	syn03018	RNA degradation	Folding, sorting and degradation
+sll0058	syn03018	RNA degradation	Folding, sorting and degradation
+slr2076	syn03018	RNA degradation	Folding, sorting and degradation
+sll0416	syn03018	RNA degradation	Folding, sorting and degradation
+ssr3341	syn03018	RNA degradation	Folding, sorting and degradation
+sll0290	syn03018	RNA degradation	Folding, sorting and degradation
+sll1572	syn03030	DNA replication	Replication and repair
+slr0603	syn03030	DNA replication	Replication and repair
+sll1360	syn03030	DNA replication	Replication and repair
+slr0446	syn03030	DNA replication	Replication and repair
+sll0544	syn03030	DNA replication	Replication and repair
+slr0965	syn03030	DNA replication	Replication and repair
+slr0833	syn03030	DNA replication	Replication and repair
+sll1868	syn03030	DNA replication	Replication and repair
+slr0925	syn03030	DNA replication	Replication and repair
+slr0080	syn03030	DNA replication	Replication and repair
+slr1130	syn03030	DNA replication	Replication and repair
+slr0707	syn03030	DNA replication	Replication and repair
+sll1209	syn03030	DNA replication	Replication and repair
+slr1689	syn03410	Base excision repair	Replication and repair
+slr1822	syn03410	Base excision repair	Replication and repair
+slr0231	syn03410	Base excision repair	Replication and repair
+sll1854	syn03410	Base excision repair	Replication and repair
+slr0707	syn03410	Base excision repair	Replication and repair
+sll1354	syn03410	Base excision repair	Replication and repair
+sll1209	syn03410	Base excision repair	Replication and repair
+sll0377	syn03420	Nucleotide excision repair	Replication and repair
+slr1844	syn03420	Nucleotide excision repair	Replication and repair
+sll0459	syn03420	Nucleotide excision repair	Replication and repair
+sll0865	syn03420	Nucleotide excision repair	Replication and repair
+sll1143	syn03420	Nucleotide excision repair	Replication and repair
+sll1121	syn03420	Nucleotide excision repair	Replication and repair
+slr0707	syn03420	Nucleotide excision repair	Replication and repair
+sll1209	syn03420	Nucleotide excision repair	Replication and repair
+sll1165	syn03430	Mismatch repair	Replication and repair
+sll1772	syn03430	Mismatch repair	Replication and repair
+slr1199	syn03430	Mismatch repair	Replication and repair
+sll1143	syn03430	Mismatch repair	Replication and repair
+sll1121	syn03430	Mismatch repair	Replication and repair
+sll1354	syn03430	Mismatch repair	Replication and repair
+slr0925	syn03430	Mismatch repair	Replication and repair
+sll1572	syn03430	Mismatch repair	Replication and repair
+slr0603	syn03430	Mismatch repair	Replication and repair
+slr0965	syn03430	Mismatch repair	Replication and repair
+sll1360	syn03430	Mismatch repair	Replication and repair
+sll0544	syn03430	Mismatch repair	Replication and repair
+slr0446	syn03430	Mismatch repair	Replication and repair
+sll1209	syn03430	Mismatch repair	Replication and repair
+slr1803	syn03430	Mismatch repair	Replication and repair
+sll0729	syn03430	Mismatch repair	Replication and repair
+sll1354	syn03440	Homologous recombination	Replication and repair
+slr0925	syn03440	Homologous recombination	Replication and repair
+sll1277	syn03440	Homologous recombination	Replication and repair
+slr0181	syn03440	Homologous recombination	Replication and repair
+slr1426	syn03440	Homologous recombination	Replication and repair
+sll0569	syn03440	Homologous recombination	Replication and repair
+slr0707	syn03440	Homologous recombination	Replication and repair
+sll0876	syn03440	Homologous recombination	Replication and repair
+sll0613	syn03440	Homologous recombination	Replication and repair
+sll0896	syn03440	Homologous recombination	Replication and repair
+slr0020	syn03440	Homologous recombination	Replication and repair
+sll7106	syn03440	Homologous recombination	Replication and repair
+sll1572	syn03440	Homologous recombination	Replication and repair
+slr0603	syn03440	Homologous recombination	Replication and repair
+slr0965	syn03440	Homologous recombination	Replication and repair
+sll1360	syn03440	Homologous recombination	Replication and repair
+sll0544	syn03440	Homologous recombination	Replication and repair
+slr0446	syn03440	Homologous recombination	Replication and repair
+sll0270	syn03440	Homologous recombination	Replication and repair
+slr1452	syn02010	ABC transporters	Membrane transport
+slr1453	syn02010	ABC transporters	Membrane transport
+slr1454	syn02010	ABC transporters	Membrane transport
+slr1455	syn02010	ABC transporters	Membrane transport
+sll1450	syn02010	ABC transporters	Membrane transport
+sll1451	syn02010	ABC transporters	Membrane transport
+sll1452	syn02010	ABC transporters	Membrane transport
+sll1453	syn02010	ABC transporters	Membrane transport
+slr0040	syn02010	ABC transporters	Membrane transport
+slr0041	syn02010	ABC transporters	Membrane transport
+slr0043	syn02010	ABC transporters	Membrane transport
+slr0044	syn02010	ABC transporters	Membrane transport
+sll0738	syn02010	ABC transporters	Membrane transport
+sll0739	syn02010	ABC transporters	Membrane transport
+slr0513	syn02010	ABC transporters	Membrane transport
+slr1295	syn02010	ABC transporters	Membrane transport
+sll0237	syn02010	ABC transporters	Membrane transport
+sll0238	syn02010	ABC transporters	Membrane transport
+slr0327	syn02010	ABC transporters	Membrane transport
+sll1878	syn02010	ABC transporters	Membrane transport
+sll0240	syn02010	ABC transporters	Membrane transport
+slr0747	syn02010	ABC transporters	Membrane transport
+slr1224	syn02010	ABC transporters	Membrane transport
+slr0529	syn02010	ABC transporters	Membrane transport
+slr0530	syn02010	ABC transporters	Membrane transport
+slr0531	syn02010	ABC transporters	Membrane transport
+slr1897	syn02010	ABC transporters	Membrane transport
+slr1202	syn02010	ABC transporters	Membrane transport
+slr1723	syn02010	ABC transporters	Membrane transport
+slr1247	syn02010	ABC transporters	Membrane transport
+sll0540	syn02010	ABC transporters	Membrane transport
+sll0679	syn02010	ABC transporters	Membrane transport
+sll0680	syn02010	ABC transporters	Membrane transport
+slr1248	syn02010	ABC transporters	Membrane transport
+sll0681	syn02010	ABC transporters	Membrane transport
+slr1249	syn02010	ABC transporters	Membrane transport
+sll0682	syn02010	ABC transporters	Membrane transport
+slr1250	syn02010	ABC transporters	Membrane transport
+sll0683	syn02010	ABC transporters	Membrane transport
+sll0684	syn02010	ABC transporters	Membrane transport
+sll1270	syn02010	ABC transporters	Membrane transport
+slr1735	syn02010	ABC transporters	Membrane transport
+sll0606	syn02010	ABC transporters	Membrane transport
+slr0559	syn02010	ABC transporters	Membrane transport
+sll0146	syn02010	ABC transporters	Membrane transport
+slr0949	syn02010	ABC transporters	Membrane transport
+slr0467	syn02010	ABC transporters	Membrane transport
+slr1881	syn02010	ABC transporters	Membrane transport
+slr0447	syn02010	ABC transporters	Membrane transport
+slr1200	syn02010	ABC transporters	Membrane transport
+slr1201	syn02010	ABC transporters	Membrane transport
+sll0764	syn02010	ABC transporters	Membrane transport
+sll0374	syn02010	ABC transporters	Membrane transport
+sll1870	syn02010	ABC transporters	Membrane transport
+sll1202	syn02010	ABC transporters	Membrane transport
+slr1319	syn02010	ABC transporters	Membrane transport
+slr1491	syn02010	ABC transporters	Membrane transport
+slr1492	syn02010	ABC transporters	Membrane transport
+slr1316	syn02010	ABC transporters	Membrane transport
+slr1317	syn02010	ABC transporters	Membrane transport
+slr1318	syn02010	ABC transporters	Membrane transport
+sll1598	syn02010	ABC transporters	Membrane transport
+sll1600	syn02010	ABC transporters	Membrane transport
+sll1599	syn02010	ABC transporters	Membrane transport
+slr2043	syn02010	ABC transporters	Membrane transport
+slr2045	syn02010	ABC transporters	Membrane transport
+slr2044	syn02010	ABC transporters	Membrane transport
+sll0383	syn02010	ABC transporters	Membrane transport
+sll0384	syn02010	ABC transporters	Membrane transport
+sll0385	syn02010	ABC transporters	Membrane transport
+sll0382	syn02010	ABC transporters	Membrane transport
+slr1365	syn02010	ABC transporters	Membrane transport
+slr1978	syn02010	ABC transporters	Membrane transport
+sll1623	syn02010	ABC transporters	Membrane transport
+slr0354	syn02010	ABC transporters	Membrane transport
+slr0977	syn02010	ABC transporters	Membrane transport
+sll0574	syn02010	ABC transporters	Membrane transport
+slr2107	syn02010	ABC transporters	Membrane transport
+slr0982	syn02010	ABC transporters	Membrane transport
+slr2108	syn02010	ABC transporters	Membrane transport
+sll0496	syn02010	ABC transporters	Membrane transport
+slr0882	syn02010	ABC transporters	Membrane transport
+slr0251	syn02010	ABC transporters	Membrane transport
+slr1488	syn02010	ABC transporters	Membrane transport
+slr1494	syn02010	ABC transporters	Membrane transport
+slr1651	syn02010	ABC transporters	Membrane transport
+sll0182	syn02010	ABC transporters	Membrane transport
+slr0774	syn03070	Bacterial secretion system	Membrane transport
+slr0775	syn03070	Bacterial secretion system	Membrane transport
+ssl3335	syn03070	Bacterial secretion system	Membrane transport
+ssr3307	syn03070	Bacterial secretion system	Membrane transport
+sll1814	syn03070	Bacterial secretion system	Membrane transport
+slr1471	syn03070	Bacterial secretion system	Membrane transport
+sll0616	syn03070	Bacterial secretion system	Membrane transport
+slr2102	syn03070	Bacterial secretion system	Membrane transport
+slr1531	syn03070	Bacterial secretion system	Membrane transport
+slr1046	syn03070	Bacterial secretion system	Membrane transport
+ssl2823	syn03070	Bacterial secretion system	Membrane transport
+sll0194	syn03070	Bacterial secretion system	Membrane transport
+sll0337	syn02020	Two-component system	Signal transduction
+slr0081	syn02020	Two-component system	Signal transduction
+slr1247	syn02020	Two-component system	Signal transduction
+sll0540	syn02020	Two-component system	Signal transduction
+sll0679	syn02020	Two-component system	Signal transduction
+sll0680	syn02020	Two-component system	Signal transduction
+slr1731	syn02020	Two-component system	Signal transduction
+slr1728	syn02020	Two-component system	Signal transduction
+slr1729	syn02020	Two-component system	Signal transduction
+slr1730	syn02020	Two-component system	Signal transduction
+sll1898	syn02020	Two-component system	Signal transduction
+sll0848	syn02020	Two-component system	Signal transduction
+sll0798	syn02020	Two-component system	Signal transduction
+sll0797	syn02020	Two-component system	Signal transduction
+slr0793	syn02020	Two-component system	Signal transduction
+slr0795	syn02020	Two-component system	Signal transduction
+slr0796	syn02020	Two-component system	Signal transduction
+slr0640	syn02020	Two-component system	Signal transduction
+slr1837	syn02020	Two-component system	Signal transduction
+sll1598	syn02020	Two-component system	Signal transduction
+sll1599	syn02020	Two-component system	Signal transduction
+sll1600	syn02020	Two-component system	Signal transduction
+sll0698	syn02020	Two-component system	Signal transduction
+sll0750	syn02020	Two-component system	Signal transduction
+slr0115	syn02020	Two-component system	Signal transduction
+slr0947	syn02020	Two-component system	Signal transduction
+slr0721	syn02020	Two-component system	Signal transduction
+slr1350	syn02020	Two-component system	Signal transduction
+ssl0707	syn02020	Two-component system	Signal transduction
+slr0288	syn02020	Two-component system	Signal transduction
+slr1756	syn02020	Two-component system	Signal transduction
+slr1993	syn02020	Two-component system	Signal transduction
+sll1695	syn02020	Two-component system	Signal transduction
+sll1694	syn02020	Two-component system	Signal transduction
+slr1456	syn02020	Two-component system	Signal transduction
+slr1044	syn02020	Two-component system	Signal transduction
+sll1294	syn02020	Two-component system	Signal transduction
+sll1293	syn02020	Two-component system	Signal transduction
+slr1043	syn02020	Two-component system	Signal transduction
+slr0322	syn02020	Two-component system	Signal transduction
+slr0073	syn02020	Two-component system	Signal transduction
+sll1296	syn02020	Two-component system	Signal transduction
+sll1291	syn02020	Two-component system	Signal transduction
+slr1041	syn02020	Two-component system	Signal transduction
+slr1214	syn02020	Two-component system	Signal transduction
+slr1042	syn02020	Two-component system	Signal transduction
+sll1292	syn02020	Two-component system	Signal transduction
+sll0041	syn02020	Two-component system	Signal transduction
+sll0040	syn02020	Two-component system	Signal transduction
+sll0043	syn02020	Two-component system	Signal transduction
+sll0038	syn02020	Two-component system	Signal transduction
+sll0039	syn02020	Two-component system	Signal transduction
+slr0473	syn02020	Two-component system	Signal transduction
+slr0474	syn02020	Two-component system	Signal transduction
+slr1759	syn02020	Two-component system	Signal transduction
+sll1673	syn02020	Two-component system	Signal transduction
+slr0687	syn02020	Two-component system	Signal transduction
+slr1760	syn02020	Two-component system	Signal transduction
+slr1798	syn02020	Two-component system	Signal transduction
+sll0779	syn02020	Two-component system	Signal transduction
+sll0821	syn02020	Two-component system	Signal transduction
+slr0829	syn02020	Two-component system	Signal transduction
+slr1047	syn02020	Two-component system	Signal transduction
+slr1657	syn02020	Two-component system	Signal transduction
+slr1969	syn02020	Two-component system	Signal transduction
+slr1379	syn02020	Two-component system	Signal transduction
+slr1380	syn02020	Two-component system	Signal transduction

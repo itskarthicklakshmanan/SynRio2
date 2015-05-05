@@ -1,0 +1,19 @@
+plot(x=1, y=1, type="h", col="white", xlim=c(as.numeric(bdata$s_start[1]),as.numeric(bdata$s_end[1])), ylim=c(nrow(bdata),0), xlab="", ylab="", yaxt="n",xaxt="n",bty="n")
+
+for (i in 1:nrow(bdata)){
+segments(as.numeric(bdata$q_start[1]), i+1, as.numeric(bdata$q_end[1]), i+1, col="#D00000", lwd=1)
+}
+
+colr<-list()
+for (i in 1:nrow(bdata)){
+if(bdata$bit_score[i] <40){colr[i]<-"#000000"}
+else if(bdata$bit_score[i] >40 & bdata$bit_score[i] <50){colr[i]<-"#3366FF"}
+else if(bdata$bit_score[i] > 50 & bdata$bit_score[i] < 80){colr[i]<-"#336633"}
+else if(bdata$bit_score[i] > 80 & bdata$bit_score[i] < 200){colr[i]<-"#CC3399"}
+else if(bdata$bit_score[i] >200){colr[i]<-"#CC0033"}
+}
+colr<-do.call(rbind,colr)
+
+for (i in 1:nrow(bdata)){
+rect(bdata$q_start[i], i-0.3+1, bdata$q_end[i], i+0.3+1, xpd=FALSE , border="#ffffff", col=colr[i,])
+}
