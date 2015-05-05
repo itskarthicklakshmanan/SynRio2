@@ -4,7 +4,7 @@
 # PhD student
 # Bioinformatics Division
 # National Facility of Marine Cyanobacteria (NFMC)
-# Bhanrathidasan University
+# Bharathidasan University
 # Trichy
 # email: karthick.lakshman@gmail.com
 ########################################################################
@@ -451,19 +451,6 @@ Add annotation file</span></p>"),
       column(5,downloadButton('downData', 'Download')))
     ),
 	  dataTableOutput("stresstab")
-    )
-  )
-  ),tabPanel("BLAST",icon = icon("fa fa-shopping-cart"),
-    sidebarLayout(
-    sidebarPanel(actionButton("blast_data", "Load Blast Table data",icon = icon("fa fa-refresh")),hr(),bsAlert(inputId = "blastalert"),
-	hr(),checkboxInput(inputId = "opt_switch", label = "", value = FALSE),br(),
-	conditionalPanel(
-        condition = "input.opt_switch",wellPanel(radioButtons("filetypemgb", "File type:",
-                   choices = c("csv", "txt")),downloadButton('downDatablast', 'Download')))
-
-    ),
-    mainPanel(tags$style(type='text/css', "#blastplot { min-height:750px;overflow:auto;}"), div(class = "busy", p("Data download in progress.."), img(src="loader.gif"),p("Source: NFMC")),
-	plotOutput("blastplot"),dataTableOutput('blasttable')
     )
   )
   )
