@@ -1,10 +1,11 @@
 ########################################################################
+# SYNRIO2 : updated version
 # Script written and maintained by:
 # Karthick L
 # PhD student
 # Bioinformatics Division
 # National Facility of Marine Cyanobacteria (NFMC)
-# Bhanrathidasan University
+# Bharathidasan University
 # Trichy
 # email: karthick.lakshman@gmail.com
 ########################################################################
@@ -28,8 +29,8 @@ observe({
 	input$geneserch
 	isolate({
 	gone<-subset(kar,kar$id==input$gene_ser)
-	updateNumericInput(session=session, inputId="instart", value=as.numeric(gone$start)-4000)
-    updateNumericInput(session=session, inputId="inend", value=as.numeric(gone$end)+4000)
+	updateNumericInput(session=session, "instart", value=as.numeric(gone$start)-4000)
+    updateNumericInput(session=session, "inend", value=as.numeric(gone$end)+4000)
 	}) 
   }) 
   
@@ -67,7 +68,7 @@ output$sliders <- renderUI({
 	if (input$pushorfl==0){ return(NULL)}
 	input$pushorf1
 	isolate({
-	updateSliderInput(session=session, inputId="inslider2", value=input$inslider2-1)
+	updateSliderInput(session=session, "inslider2", value=input$inslider2-1)
 
 	}) 
   })
@@ -75,7 +76,7 @@ output$sliders <- renderUI({
 	if (input$pushorfr==0){ return(NULL)}
 	input$pushorfr
 	isolate({
-	updateSliderInput(session=session, inputId="inslider2", value=input$inslider2+1)
+	updateSliderInput(session=session,"inslider2", value=input$inslider2+1)
 
 	}) 
   })
@@ -84,12 +85,12 @@ output$sliders <- renderUI({
 	if (input$regsel==0){ return(NULL)}
 	if(input$regsel=="twor")
 	{
-	updateTextInput(session=session, inputId="instart", value=seg[input$inslider2,2])
-    updateTextInput(session=session, inputId="inend", value=seg[input$inslider2,3])
+	updateTextInput(session=session, "instart", value=seg[input$inslider2,2])
+    updateTextInput(session=session, "inend", value=seg[input$inslider2,3])
 	
 	} else{
-	updateTextInput(session=session, inputId="instart", value=1000)
-    updateTextInput(session=session, inputId="inend", value=10000)
+	updateTextInput(session=session,"instart", value=1000)
+    updateTextInput(session=session, "inend", value=10000)
 	}
   }) 
   
@@ -97,8 +98,8 @@ output$sliders <- renderUI({
 	if (input$locusserch==0){ return(NULL)}
 	input$locusserch
 	isolate({
-	updateNumericInput(session=session, inputId="instart", value=1000)
-    updateNumericInput(session=session, inputId="inend", value=10000)
+	updateNumericInput(session=session, "instart", value=1000)
+    updateNumericInput(session=session, "inend", value=10000)
 	}) 
   }) 
 #-----------------------------------------------------navigator--------------------------------------------------------------   
@@ -107,46 +108,46 @@ observe({
 	if (input$twoleft==0){ return(NULL)}
 	input$twoleft
 	isolate({
-	updateNumericInput(session=session, inputId="instart", value=as.numeric(input$instart)-8000)
-    updateNumericInput(session=session, inputId="inend", value=as.numeric(input$inend)-8000)
+	updateNumericInput(session=session, "instart", value=as.numeric(input$instart)-8000)
+    updateNumericInput(session=session, "inend", value=as.numeric(input$inend)-8000)
 	}) 
   }) 
  observe({ 
 	if (input$oneleft==0){ return(NULL)}
 	input$oneleft
 	isolate({
-	updateNumericInput(session=session, inputId="instart", value=as.numeric(input$instart)-4000)
-    updateNumericInput(session=session, inputId="inend", value=as.numeric(input$inend)-4000)
+	updateNumericInput(session=session,"instart", value=as.numeric(input$instart)-4000)
+    updateNumericInput(session=session, "inend", value=as.numeric(input$inend)-4000)
 	}) 
   }) 
 observe({ 
 	if (input$tworight==0){ return(NULL)}
 	input$tworight
 	isolate({
-	updateNumericInput(session=session, inputId="instart", value=as.numeric(input$instart)+8000)
-    updateNumericInput(session=session, inputId="inend", value=as.numeric(input$inend)+8000)
+	updateNumericInput(session=session, "instart", value=as.numeric(input$instart)+8000)
+    updateNumericInput(session=session, "inend", value=as.numeric(input$inend)+8000)
 	}) 
   })  
  observe({ 
 	if (input$oneright==0){ return(NULL)}
 	input$oneright
 	isolate({
-	updateNumericInput(session=session, inputId="instart", value=as.numeric(input$instart)+4000)
-    updateNumericInput(session=session, inputId="inend", value=as.numeric(input$inend)+4000)
+	updateNumericInput(session=session, "instart", value=as.numeric(input$instart)+4000)
+    updateNumericInput(session=session, "inend", value=as.numeric(input$inend)+4000)
 	}) 
   }) 
   observe({ 
 	if (input$pushright==0){ return(NULL)}
 	input$pushright
 	isolate({
-    updateNumericInput(session=session, inputId="inend", value=as.numeric(input$inend)+4000)
+    updateNumericInput(session=session, "inend", value=as.numeric(input$inend)+4000)
 	}) 
   }) 
     observe({ 
 	if (input$pushleft==0){ return(NULL)}
 	input$pushleft
 	isolate({
-    updateNumericInput(session=session, inputId="inend", value=as.numeric(input$inend)-4000)
+    updateNumericInput(session=session, "inend", value=as.numeric(input$inend)-4000)
 	}) 
   }) 
   
@@ -171,7 +172,7 @@ observe({
     if (input$moleft==0){ return(NULL)}
 	input$moleft
 		isolate({
-	 updateSliderInput(session=session, inputId="inslider", value=as.numeric(input$inslider)-50)
+	 updateSliderInput(session=session, "inslider", value=as.numeric(input$inslider)-50)
 
   })  })
   
@@ -180,7 +181,7 @@ observe({
 	input$moright
 	isolate({
 
-	 updateSliderInput(session=session, inputId="inslider", value=as.numeric(input$inslider)+50)
+	 updateSliderInput(session=session, "inslider", value=as.numeric(input$inslider)+50)
 
   })  })
   
@@ -202,7 +203,7 @@ observe({
 
 segd<-subset(seg,seg$V1==input$circo_input)
 res<-paste(segd[,2],"-", segd[,3])
-updateTextInput(session=session, inputId="segrang", value=res)
+updateTextInput(session=session, "segrang", value=res)
 
 })
 
@@ -210,7 +211,7 @@ observe({
 
 segd<-subset(seg,seg$V1==paste("S",input$inslider2,sep=""))
 res<-paste(segd[,2],"-", segd[,3])
-updateTextInput(session=session, inputId="segrang2", value=res)
+updateTextInput(session=session, "segrang2", value=res)
 
 })
 	
@@ -226,7 +227,7 @@ isolate({
 	if (is.null(input$circo_input)){cin<-NULL}else{cin<-paste(input$circo_input)}
 
 mplot<-circo_plot(data,seg,cin,kasc,cog,trunit)
-updateProgressBar(session, inputId = "pb2", value = 100, visible = TRUE, color = "standard", striped = TRUE, animate = TRUE)
+
 return(mplot)
 
 })
@@ -234,37 +235,12 @@ return(mplot)
 })
 
 
-observe({
-if (input$circo_input==0){return(NULL)}
-input$circo_input
-isolate({
-createAlert(session, inputId = "alert_anchor", 
-title = "TITLE GOES HERE", 
-message = paste(input$circo_input), 
-type = "warning", 
-dismiss = TRUE, block = TRUE, 
-append = TRUE )
-})
-})
 
-updateTypeAhead(session, inputId = "gene_ser", label = "", choices = kar$id)
+
 
 sel_gene<-reactive({
 gres<-subset(kar,kar$id==input$gene_ser)
 return(as.character(gres$name))
-})
-
-observe({
-if (is.null(sel_gene())){return(NULL)}
-isolate({
-createAlert(session, inputId = "alert_gene", 
-title = input$gene_ser,
-message = sel_gene(), 
-type = "success", 
-dismiss = TRUE, 
-block = TRUE, 
-append = FALSE)
-})
 })
 
 
@@ -305,7 +281,7 @@ output$disttab<-renderTable({
 	})
 
 observe({
-	updateSelectInput(session=session, inputId="distt", choices=rownames(distabb()))
+	updateSelectInput(session=session, "distt", choices=rownames(distabb()))
 
 	})
 
@@ -494,14 +470,14 @@ output$go_pie<-renderPlot({
 	})
 
 
-updateButtonGroup(session, "btngrp1", toggle = "checkbox", style = "info", size = "small")
-createAlert(session, inputId = "alert_anchor", message = "MESSAGE GOES HERE", type = "info", dismiss = TRUE, block = FALSE, append = FALSE )
+updateButton(session, "btngrp1", style = "info", size = "small")
+
 
 output$myImage <- renderPlot({
 data1<-plotdata()
 if (is.null(input$inslider)){ return(NULL)}
 else if(input$inslider[2]-input$inslider[1]>80000){
-createAlert(session, inputId = "alert_gene", message = "Try to select region with in 80000 range!", type = "warning", dismiss = TRUE, block = FALSE, append = FALSE )}else{
+createAlert(session, anchorID = "alert_gene", content = "Try to select region with in 80000 range!",append = FALSE )}else{
 input1 <-input$inslider[1]
 input2 <-input$inslider[2]
 	  
@@ -510,8 +486,8 @@ input2 <-input$inslider[2]
 mplot<-plotter(data1,trunit,input1,input2,0.2,1.9,"grey","grey",5,cogclr,grir)
 observe({
      data1<-subset(data1,data1$start>input1 & data1$start<input2)
-  	updateSelectInput(session=session, inputId="gselect", choices=paste(data1$id,'----',data1$name, sep=""),selected=data1[1,])})
-	updateProgressBar(session, inputId = "pb3", value = 100, visible = TRUE, color = "standard", striped = TRUE, animate = TRUE)
+  	updateSelectInput(session=session, "gselect", choices=paste(data1$id,'----',data1$name, sep=""),selected=data1[1,])})
+	  
 	  
 	      return(mplot)  
 	  
@@ -559,10 +535,10 @@ unique(kar1[,1]) })
   
   
   
- output$message <- renderText({
+ output$content <- renderText({
 gene1<-gene1()
   ou1<-paste("<div id='genebox' style='left:550px; top:180px; border:#c1c1c1; padding:10px; border:1px;'><b>",gene1[,c(1)],"</b>:",gene1[,c(6)],"</div>")
-  updateTextInput(session=session, inputId="geneid", value=gene1[,c(1)])
+  updateTextInput(session=session, "geneid", value=gene1[,c(1)])
   return(ou1)
   })
   
@@ -824,7 +800,7 @@ legend("topright",legend=c("Synechocystis 6803_chr", input$variable),lty=1,lwd=2
   
 observe({
      pathdata<-unique(path$specificpath)
-  	updateSelectInput(session=session, inputId="pathselect", choices=pathdata)
+  	updateSelectInput(session=session, "pathselect", choices=pathdata)
 
 })
 
@@ -838,12 +814,6 @@ output$path_table<- renderDataTable({
 	
 	
   
-	createAlert(session, inputId = "blastalert", 
-	message = "Note: Blast table data needs to be loaded from remote site and it will take some time to upload", type = "warning", 
-	dismiss = TRUE, 
-	block = FALSE, 
-	append = FALSE ) 
-
 
  blastdata<-reactive({
  	if (input$blast_data==0){ return(NULL)}
@@ -1065,7 +1035,7 @@ plotCov(mycov1, start=input$patt_genlen_f, end=input$patt_genlen_t, mycol="red")
   
  observe({
 if(input$patty=="patty_2")
-updateTextInput(session=session,inputId="pattern_ser1", value=input$pattern_ser2)
+updateTextInput(session=session,"pattern_ser1", value=input$pattern_ser2)
 })  
   
  
@@ -1217,13 +1187,13 @@ d<-density(-(denp$start+denp$end)/2)
 	if (input$infuse==0){ return(NULL)}
 	input$infuse
 	isolate({
-	updateNumericInput(session=session, inputId="patt_genlen_f", value=input$inslider[1])
-	updateNumericInput(session=session, inputId="patt_genlen_t", value=input$inslider[2])
+	updateNumericInput(session=session, "patt_genlen_f", value=input$inslider[1])
+	updateNumericInput(session=session, "patt_genlen_t", value=input$inslider[2])
 	}) 
   })	
   
   output$sliders3 <- renderUI({
-  sliderInput(inputId="mm1",label="",min=0,max=5,value=0,step=1)
+  sliderInput("mm1",label="",min=0,max=5,value=0,step=1)
   
   })
  
@@ -1385,7 +1355,7 @@ isolate({
 if (input$basket1==0){ return(NULL)}
 input$basket1
 isolate({   
-updateTabsetPanel(session, inputId="inTabset", selected = "User Analysis Basket")
+updateTabsetPanel(session, "inTabset", selected = "User Analysis Basket")
   })})
   
   observe({
@@ -1396,8 +1366,8 @@ isolate({
 
 dfr<-data.frame(id=as.character(u_data2()))
 u_data2<-merge(dfr,kar,by="id")
-updateNumericInput(session, inputId="range_start", value = as.numeric(min(u_data2$start)))
-updateNumericInput(session, inputId="range_end", value = as.numeric(max(u_data2$end)))
+updateNumericInput(session, "range_start", value = as.numeric(min(u_data2$start)))
+updateNumericInput(session, "range_end", value = as.numeric(max(u_data2$end)))
   })}) 
 
   #-----------------------------------------------------dataset end-------------------------------------------------------------- 
@@ -1587,8 +1557,6 @@ plot(g1, input$int_type2, attrs=list(node=list(color=c("lightgreen"),fixedsize=F
 })
 }) 
   
-  
-
 #-----------------------------------------annotate-------------------------------------
      
 	 adata<-reactive({
@@ -1612,9 +1580,9 @@ plot(g1, input$int_type2, attrs=list(node=list(color=c("lightgreen"),fixedsize=F
     if (is.null(input$input_type))
       return()
     udata<- uploaddata()
-    # Depending on input$input_type, we'll generate a different
+    # Depending on input$input_style, we'll generate a different
     # UI component and send it to the client.
-    switch(input$input_type,
+    switch(input$input_style,
 	     
       "Annotate" = selectInput("dynamic", "Choose header",
         choices = colnames(udata)
@@ -1633,7 +1601,7 @@ plot(g1, input$int_type2, attrs=list(node=list(color=c("lightgreen"),fixedsize=F
 	  input$merged
 	    isolate({
 
- 	updateSelectInput(session=session, inputId="gselect1", choices=annodata()[,1])})    })
+ 	updateSelectInput(session=session, "gselect1", choices=annodata()[,1])})    })
   
    observe({
   if (input$merged==0){ return(NULL)}
