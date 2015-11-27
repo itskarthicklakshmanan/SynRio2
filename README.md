@@ -1,4 +1,4 @@
-#synrio2
+#SynRio2
 SynRio version2:
 A simple R and SHINY package based interface to analyze and visualize synchocystis genome
 
