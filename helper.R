@@ -1,3 +1,16 @@
+########################################################################
+# SYNRIO2 : updated version
+# Script written and maintained by:
+# Karthick L
+# PhD student
+# Bioinformatics Division
+# National Facility of Marine Cyanobacteria (NFMC)
+# Bharathidasan University
+# Trichy
+# email: karthick.lakshman@gmail.com
+########################################################################
+
+
 subs <- function(x, n) {
   sst <- strsplit(x, '')[[1]]
   m <- matrix('', nrow=n, ncol=(length(sst)+n-1)%/%n)
@@ -196,10 +209,10 @@ circos.trackPlotRegion(factors = factors, ylim = c(0,1), bg.border = "GREY",bg.c
    i = get.cell.meta.data("sector.numeric.index")
    xlim = get.cell.meta.data("xlim")
    #plot labels
-   circos.text(x=mean(xlim), y=0.5, labels=name, direction = "vertical_right", cex=1.5,col="#cccccc")
+   circos.text(x=mean(xlim), y=0.5, labels=name, facing = "outside", cex=1.5,col="#cccccc")
 })
 circos.updatePlotRegion(sector.index = sect[1,1], bg.col = "RED",bg.border = "GREY")
-circos.text(0.5, 0.5, sect[1,1],cex = 1.5,direction = "vertical_right", col="white")
+circos.text(0.5, 0.5, sect[1,1],cex = 1.5,facing = "outside", col="white")
 #circos.link("S1",1,"S12",1,col="#f1f1f1", border = "white")
 #circos.link("S1",1,"S42",1,col="#f1f1f1", border = "white")
 
@@ -221,8 +234,8 @@ circos.genomicTrackPlotRegion(da1, ylim = c(0,1),bg.border = "grey",bg.col = gco
    i = get.cell.meta.data("sector.numeric.index")
    xlim = get.cell.meta.data("xlim")
    #plot labels
-   circos.text(x=mean(xlim), y=0, labels=name, direction = "vertical_left", cex=1.5)
-circos.axis(sector.index = name, direction = "outside",labels.direction = "vertical_left",labels.cex = 1.2, major.tick.percentage = 0.2, labels.away.percentage = 0.3, minor.ticks = 0)
+   circos.text(x=mean(xlim), y=0, labels=name, facing = "outside", cex=1.5)
+circos.axis(sector.index = name,labels.facing = "clockwise",labels.cex = 1.2, major.tick.percentage = 0.2, labels.away.percentage = 0.3, minor.ticks = 0)
 })
 
 text(0, 0, paste("Coordinate\n",sect[,2],"-",sect[,3],"bp" ), cex = 1.5)
@@ -256,7 +269,7 @@ circos.genomicTrackPlotRegion(da1[,c(1,2,3)], ylim = c(0,0.2),bg.border = "grey"
    name = get.cell.meta.data("sector.index")
    i = get.cell.meta.data("sector.numeric.index")
    xlim = get.cell.meta.data("xlim")
-   #circos.text(x=mean(xlim), y=-1, labels=da3[i,7], direction = "vertical_left", cex=1.2)
+   #circos.text(x=mean(xlim), y=-1, labels=da3[i,7], facing = "clockwise", cex=1.2)
 })
 
 }
@@ -305,5 +318,3 @@ res<-do.call(rbind, lapply(com, `[`, seq_len(n)))
 unique(res)
 
 }
-
-
